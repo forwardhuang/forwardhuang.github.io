@@ -5,12 +5,22 @@
     <link>https://forwardhuang.github.io/post/</link>
       <atom:link href="https://forwardhuang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ImForward©</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ImForward©</copyright><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://forwardhuang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://forwardhuang.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Outstanding Prize in a Macao Regional Entrepreneurship Competition</title>
+      <link>https://forwardhuang.github.io/post/getting-started/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://forwardhuang.github.io/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Last year, it was my great pleasure to know some young Macanese who were undergraduate students in University of Macau and full of talent. We together did some research in wireless charging for electric vehicles, and several research papers got published in high-ranking IEEE journals. Later, we participated in 2020 Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition and won an outstanding prize.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Many thanks to Paul, Charles, Sou and Victor! Cheers!🍻&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
