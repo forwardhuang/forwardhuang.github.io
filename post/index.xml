@@ -5,12 +5,20 @@
     <link>https://forwardhuang.github.io/post/</link>
       <atom:link href="https://forwardhuang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ImForward©</copyright><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ImForward©</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://forwardhuang.github.io/images/icon_hu027470459f7f5e009bb0921298178a6e_51794_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://forwardhuang.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Research Grant Approved by National Natural Science Foundation of China</title>
+      <link>https://forwardhuang.github.io/post/202009nsfc/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://forwardhuang.github.io/post/202009nsfc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Outstanding Prize in a Macao Regional Entrepreneurship Competition</title>
