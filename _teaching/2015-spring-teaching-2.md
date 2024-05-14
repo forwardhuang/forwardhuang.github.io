@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "讲授课程"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2015-spring-teaching-2
+venue: "South China University of Technology"
+date: 2014-01-01
+location: "Guangzhou, China"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
 ======
 
-Heading 2
-======
+# 本科生教育
+- 嵌入式系统与设计
+- 电路导论
+- 应用微积分
 
-Heading 3
-======
+# 研究生教育
+- 嵌入式系统与边缘人工智能
+- 数字伺服系统

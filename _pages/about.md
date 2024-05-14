@@ -1,49 +1,157 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "黄智聪"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+华南理工大学，吴贤铭智能工程学院，副教授（博导），主要研究面向新能源汽车及新型电力系统的电力电子技术，目前主持国家级、省部级和校企合作项目10余项，合作主持1项中国澳门科学技术发展基金项目，作为主要完成人参与中国香港科研资助项目4项，发表学术论文30余篇，其中以第一作者/通讯作者发表SCI论文23篇，入选中国科协战略发展部科技智库青年人才计划，获电力电子领域权威期刊IEEE TPEL杰出审稿人奖、IEEE APPEEC 2019会议最佳论文奖、IEEE PEAC 2022会议优秀论文奖、中国电源学会期刊邀稿，授权中美国专利1件和中国发明专利3件。
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Research area
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<html lang="zh-CN">
+<table style="margin-left: auto; margin-right: auto;">
+     <style>
+        table {
+            width: 100%; /* 设置表格宽度为80% */
+        }
+        colgroup {
+            width: 20%; /* 设置左侧单元格宽度为20% */
+        }
+        col {
+            width: 80%; /* 设置右侧单元格宽度为80% */
+        }
+    </style>
+    <tr>
+        <td>
+            <!--左侧内容-->
+            <img src="../images/news.png" />
+        </td>
+        <td>
+            <!--右侧内容-->
+            这是吴贤铭智能工程学院最好的老师！
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a> 
+        </td>
+    </tr>
+</table>
+</html>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<html lang="zh-CN">
+<table>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            width: 100%;
+        }
+        td:nth-child(1) {
+            width: 80%;
+        }
+        td:nth-child(2) {
+            width: 20%;
+        }
+    </style>
+    <colgroup>
+        <col style="width: 20%;">
+    </colgroup>
+    <col>
+    <tr>
+        <td>
+            <!-- 左侧内容 -->
+            <img src="../images/news.png" style="zoom: 25%;" alt="News Image">
+        </td>
+        <td>
+            <!-- 右侧内容 -->
+            这是吴贤铭智能工程学院最牛逼的老师！
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a>  
+        </td>
+    </tr>
+</table>
+</html>
 
-**Markdown generator**
+<html lang="zh-CN">
+<table>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            width: 100%;
+        }
+        td:nth-child(1) {
+            width: 50%;
+        }
+        td:nth-child(2) {
+            width: 50%;
+        }
+    </style>
+    <tr>
+        <td>
+            <!-- 左侧内容 -->
+            <img src="../images/news.png" style="zoom: 25%;" alt="News Image">
+        </td>
+        <td>
+            <!-- 右侧内容 -->
+            这是吴贤铭智能工程学院最帅气的老师！
+            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a>  
+        </td>
+    </tr>
+</table>
+</html>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# Publications
+[32] Wenhua Ding, Yufei Wang, Tingyu Chen, Zhenghong Lu, Yue You, Jingyu Wang, and Zhicong Huang*, “A stacking machine-learning based method for accelerating magnetic coupler design with ferrite cores in inductive power transfer applications,” International Journal of Circuit Theory and Applications, to appear.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[31] Hai Xu, Zhicong Huang*, Xiaolu Lucia Li*, and Chi K. Tse, [“Misalignment-tolerant IPT coupler with enhanced magnetic flux variation suppression and reduced copper usage,”](https://ieeexplore.ieee.org/document/10494318)IEEE Transactions on Power Electronics, to appear.[(PDF)](/files/31.pdf) 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[30] Zhicong Huang*, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse, [“Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles,”](https://ieeexplore.ieee.org/document/10480593)IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7766-7777, Jun. 2024.[(PDF)](/files/30.pdf) 
+
+[29] Bowei Zou and Zhicong Huang*, [“Primary-frequency-tuning and secondary-impedance-matching IPT converter with programmable constant power output and optimal efficiency tracking against variation of coupling coefficient,”](https://ieeexplore.ieee.org/document/10399825) IEEE Transactions on Power Electronics, vol. 39, no. 4, pp. 4895-4909, Apr. 2024.[(PDF)](/files/29.pdf) 
+
+<html lang="zh-CN">
+<div style="text-align: right;">
+<a href="http://Gavy666.github.io/publications/">View More...</a> 
+</div>
+</html>
+<!-- 超链接居右 -->
+
+# Invention Patent
+
+[1]   Wireless charging circuit and system（美国专利，US 11,201,503 B2）；
+
+[2]   一种仿龙型飞行器（中国发明专利，ZL 2021 1 1498245.8）；
+
+[3]   一种恒流恒压自主切换的无线充电系统（中国发明专利，ZL 2021 1 0398355.0）；
+
+[4]   一种基于串联-串联补偿无线输电系统及均流方法（中国发明专利，ZL 2021 1 0631395.5）；
+
+
+# Honors and Awards
+
+[1]   2023年，ABB杯智能技术创新大赛（变频器半导体温度预测AI建模挑战赛）二等奖；
+
+[2]   2022年，青蓝国际创新创业大赛初创组三等奖，“应用于自动导引车和新能源汽车的无线充电装置的研发及产业化”；
+
+[3]   2022年，IEEE PEAC会议优秀论文奖；
+
+[4]   2022年，入选中国科协战略发展部科技智库青年人才计划；
+
+[5]   2021年，IEEE TPEL（电力电子领域权威期刊）杰出审稿人奖；
+
+[6]   2019年，IEEE PES（电力与能源学会）APPEEC会议最佳论文奖；
+
+[7]   2022年，第二届“率先杯”未来技术创新大赛初赛优胜奖，“用于出勤战车电能交互的模块化无线充放电装置”；
+
+[8]   2020年，Outstanding Prize in Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition；
+
+
+# News
+{% for post in site.news %}
+  {% include archive-single.html %}
+{% endfor %} 
+<!-- 用于遍历某个文件夹中的所有文章 -->

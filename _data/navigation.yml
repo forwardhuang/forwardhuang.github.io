@@ -1,22 +1,17 @@
 # main links links
 main:
+  - title: "Research area"
+    url: "/#research-area"
+
   - title: "Publications"
-    url: /publications/
+    url: "#publications"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Invention Patent"
+    url: "/#invention-patent"
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Honors and Awards"
+    url: "#honors-and-awards"
+   
+  - title: "News"
+    url: "/#news"
+
