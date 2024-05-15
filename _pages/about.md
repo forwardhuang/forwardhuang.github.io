@@ -18,98 +18,45 @@ redirect_from:
 
 
 <html lang="zh-CN">
-<table style="margin-left: auto; margin-right: auto;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>左右两列布局示例</title>
     <style>
-        table {
-            width: 100%; /* 设置表格宽度为100% */
+        .container {
+            display: flex;
+            justify-content: center; /* 水平居中 */
+            align-items: center; /* 垂直居中 */
         }
-        colgroup {
-            width: 50%; /* 设置左侧单元格宽度为20% */
+        .column {
+            flex: 1; /* 平分容器宽度 */
+            padding: 20px;
         }
-        col {
-            width: 50%; /* 设置右侧单元格宽度为80% */
+        .column img {
+            max-width: 100%;
+            height: auto;
+            display: block; /* 避免图片底部留白 */
+            margin: 0 auto; /* 图片水平居中 */
         }
-        .big-text {
-            font-size: 24px; /* 设置字体大小为24px */
-            font-weight: bold; /* 设置字体为粗体 */
+        .first-paragraph {
+            font-size: 1.2em; /* 设置首段文字的字体大小为1.2em */
         }
     </style>
-    <tr>
-        <td>
-            <!--左侧内容-->
-            <img src="../images/研究方向无线电能传输.png" />
-        </td>
-        <td>
-            <!--右侧内容-->
-            <div class="big-text">无线电能传输</div>
+</head>
+<body>
+
+<div class="container">
+    <div class="column">
+        <img src="../images/研究方向无线电能传输.png" alt="图片">
+    </div>
+    <div class="column">
+        <p class="first-paragraph">	无线电能传输</p>
             项目简介：针对电动汽车无线充电存在输出范围窄、传输效率低的问题，从电路、调制、建模和控制等方面展开研究，提出宽输出高效率无线充电新方法。此外，针对电动汽车“边走边充”所面临的技术挑战，研究基于多时间尺度的电动汽车动态无线充电系统关键控制技术。
-        </td>
-    </tr>
-</table>
-</html>
+    </div>
+</div>
 
-<html lang="zh-CN">
-<table style="margin-left: auto; margin-right: auto;">
-    <style>
-        table {
-            width: 100%; /* 设置表格宽度为100% */
-        }
-        colgroup {
-            width: 50%; /* 设置左侧单元格宽度为20% */
-        }
-        col {
-            width: 50%; /* 设置右侧单元格宽度为80% */
-        }
-        .big-text {
-            font-size: 24px; /* 设置字体大小为24px */
-            font-weight: bold; /* 设置字体为粗体 */
-        }
-    </style>
-    <tr>
-        <td>
-            <!--左侧内容-->
-            <img src="../images/研究方向波浪发电.png" />
-        </td>
-        <td>
-            <!--右侧内容-->
-            <div class="big-text">大规模新能源场站的建模与仿真</div>
-            项目简介：建立准确的新能源场站模型是研究大规模新能源接入对电网影响的基础。从大规模新能源接入对系统功角稳定性、频率稳定性、电压稳定性、和电力电子多频段振荡角度出发，研究大规模电力系统仿真对新能源场站模型的需求，提取新能源场站模型对大规模电力系统仿真的关键影响因素，提出新能源场站等值模型。
-        </td>
-    </tr>
-</table>
+</body>
 </html>
-
-<html lang="zh-CN">
-<table style="margin-left: auto; margin-right: auto;">
-    <style>
-        table {
-            width: 100%; /* 设置表格宽度为100% */
-        }
-        colgroup {
-            width: 50%; /* 设置左侧单元格宽度为20% */
-        }
-        col {
-            width: 50%; /* 设置右侧单元格宽度为80% */
-        }
-        .big-text {
-            font-size: 24px; /* 设置字体大小为24px */
-            font-weight: bold; /* 设置字体为粗体 */
-        }
-    </style>
-    <tr>
-        <td>
-            <!--左侧内容-->
-            <img src="../images/研究方向波浪发电.png" />
-        </td>
-        <td>
-            <!--右侧内容-->
-            <div class="big-text">波浪发电装置在中远海风电漂浮平台上的减震与发电应用</div>
-            项目简介：建立准确的新能源场站模型是研究大规模新能源接入对电网影响的基础。从大规模新能源接入对系统功角稳定性、频率稳定性、电压稳定性、和电力电子多频段振荡角度出发，研究大规模电力系统仿真对新能源场站模型的需求，提取新能源场站模型对大规模电力系统仿真的关键影响因素，提出新能源场站等值模型。
-        </td>
-    </tr>
-</table>
-</html>
-
 
 
 <html lang="zh-CN">
@@ -133,6 +80,53 @@ redirect_from:
             display: block; /* 避免图片底部留白 */
             margin: 0 auto; /* 图片水平居中 */
         }
+        .first-paragraph {
+            font-size: 1.2em; /* 设置首段文字的字体大小为1.2em */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="column">
+        <img src="../images/研究方向大规模新能源.png" alt="图片">
+    </div>
+    <div class="column">
+        <p class="first-paragraph">	大规模新能源场站的建模与仿真</p>
+            项目简介：建立准确的新能源场站模型是研究大规模新能源接入对电网影响的基础。从大规模新能源接入对系统功角稳定性、频率稳定性、电压稳定性、和电力电子多频段振荡角度出发，研究大规模电力系统仿真对新能源场站模型的需求，提取新能源场站模型对大规模电力系统仿真的关键影响因素，提出新能源场站等值模型。
+    </div>
+</div>
+
+</body>
+</html>
+
+
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>左右两列布局示例</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center; /* 水平居中 */
+            align-items: center; /* 垂直居中 */
+        }
+        .column {
+            flex: 1; /* 平分容器宽度 */
+            padding: 20px;
+        }
+        .column img {
+            max-width: 100%;
+            height: auto;
+            display: block; /* 避免图片底部留白 */
+            margin: 0 auto; /* 图片水平居中 */
+        }
+        .first-paragraph {
+            font-size: 1.2em; /* 设置首段文字的字体大小为1.2em */
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -142,12 +136,16 @@ redirect_from:
         <img src="../images/研究方向波浪发电.png" alt="图片">
     </div>
     <div class="column">
-        <p>这里是解释文字。可以是一段文字，也可以是其他内容。</p>
+        <p class="first-paragraph">	波浪发电装置在中远海风电漂浮平台上的减震与发电应用</p>
+            项目简介：
     </div>
 </div>
 
 </body>
 </html>
+
+
+
 
 
 # Publications
