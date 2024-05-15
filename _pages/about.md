@@ -8,101 +8,107 @@ redirect_from:
   - /about.html
 ---
 
-华南理工大学，吴贤铭智能工程学院，副教授（博导），主要研究面向新能源汽车及新型电力系统的电力电子技术，目前主持国家级、省部级和校企合作项目10余项，合作主持1项中国澳门科学技术发展基金项目，作为主要完成人参与中国香港科研资助项目4项，发表学术论文30余篇，其中以第一作者/通讯作者发表SCI论文23篇，入选中国科协战略发展部科技智库青年人才计划，获电力电子领域权威期刊IEEE TPEL杰出审稿人奖、IEEE APPEEC 2019会议最佳论文奖、IEEE PEAC 2022会议优秀论文奖、中国电源学会期刊邀稿，授权中美国专利1件和中国发明专利3件。
+华南理工大学，吴贤铭智能工程学院，副教授（博导、特聘研究员），主要研究面向新能源汽车及新型电力系统的电力电子技术，目前主持国家级、省部级和校企合作项目20余项，合作主持1项中国澳门科学技术发展基金项目，作为主要完成人参与中国香港科研资助项目5项，以第一作者/通讯作者发表SCI论文27篇，入选中国科协战略发展部科技智库青年人才计划，获IEEE TPEL杰出审稿人奖、IEEE JETCAS最佳审稿人、IEEE APPEEC 2019会议最佳论文奖、IEEE PEAC 2022会议优秀论文奖、中国电源学会期刊邀稿，授权中美国专利1件和中国发明专利3件。
+欢迎有志在新能源系统中寻找“双碳”目标答案的同学加入！（电气、控制、机械、电子、计算机等学科背景均可，欢迎电邮联系）
+
 
 
 
 # Research area
 
+
 <html lang="zh-CN">
 <table style="margin-left: auto; margin-right: auto;">
-     <style>
+    <style>
         table {
-            width: 100%; /* 设置表格宽度为80% */
+            width: 100%; /* 设置表格宽度为100% */
         }
         colgroup {
-            width: 20%; /* 设置左侧单元格宽度为20% */
+            width: 50%; /* 设置左侧单元格宽度为20% */
         }
         col {
-            width: 80%; /* 设置右侧单元格宽度为80% */
+            width: 50%; /* 设置右侧单元格宽度为80% */
+        }
+        .big-text {
+            font-size: 24px; /* 设置字体大小为24px */
+            font-weight: bold; /* 设置字体为粗体 */
         }
     </style>
     <tr>
         <td>
             <!--左侧内容-->
-            <img src="../images/news.png" />
+            <img src="../images/研究方向无线电能传输.png" />
         </td>
         <td>
             <!--右侧内容-->
-            这是吴贤铭智能工程学院最好的老师
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a> 
+            <div class="big-text">无线电能传输</div>
+            项目简介：针对电动汽车无线充电存在输出范围窄、传输效率低的问题，从电路、调制、建模和控制等方面展开研究，提出宽输出高效率无线充电新方法。此外，针对电动汽车“边走边充”所面临的技术挑战，研究基于多时间尺度的电动汽车动态无线充电系统关键控制技术。
         </td>
     </tr>
 </table>
 </html>
 
 <html lang="zh-CN">
-<table>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<table style="margin-left: auto; margin-right: auto;">
     <style>
         table {
-            width: 100%;
+            width: 100%; /* 设置表格宽度为100% */
         }
-        td:nth-child(1) {
-            width: 80%;
+        colgroup {
+            width: 50%; /* 设置左侧单元格宽度为20% */
         }
-        td:nth-child(2) {
-            width: 20%;
+        col {
+            width: 50%; /* 设置右侧单元格宽度为80% */
+        }
+        .big-text {
+            font-size: 24px; /* 设置字体大小为24px */
+            font-weight: bold; /* 设置字体为粗体 */
         }
     </style>
-    <colgroup>
-        <col style="width: 20%;">
-    </colgroup>
-    <col>
     <tr>
         <td>
-            <!-- 左侧内容 -->
-            <img src="../images/news.png" style="zoom: 25%;" alt="News Image">
+            <!--左侧内容-->
+            <img src="../images/研究方向大规模新能源.png" />
         </td>
         <td>
-            <!-- 右侧内容 -->
-            这是吴贤铭智能工程学院最牛逼的老师！
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a>  
+            <!--右侧内容-->
+            <div class="big-text">大规模新能源场站的建模与仿真</div>
+            项目简介：建立准确的新能源场站模型是研究大规模新能源接入对电网影响的基础。从大规模新能源接入对系统功角稳定性、频率稳定性、电压稳定性、和电力电子多频段振荡角度出发，研究大规模电力系统仿真对新能源场站模型的需求，提取新能源场站模型对大规模电力系统仿真的关键影响因素，提出新能源场站等值模型。
         </td>
     </tr>
 </table>
 </html>
 
 <html lang="zh-CN">
-<table>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<table style="margin-left: auto; margin-right: auto;">
     <style>
         table {
-            width: 100%;
+            width: 100%; /* 设置表格宽度为100% */
         }
-        td:nth-child(1) {
-            width: 50%;
+        colgroup {
+            width: 50%; /* 设置左侧单元格宽度为20% */
         }
-        td:nth-child(2) {
-            width: 50%;
+        col {
+            width: 50%; /* 设置右侧单元格宽度为80% */
+        }
+        .big-text {
+            font-size: 24px; /* 设置字体大小为24px */
+            font-weight: bold; /* 设置字体为粗体 */
         }
     </style>
     <tr>
         <td>
-            <!-- 左侧内容 -->
-            <img src="../images/news.png" style="zoom: 25%;" alt="News Image">
+            <!--左侧内容-->
+            <img src="../images/研究方向波浪发电.png" />
         </td>
         <td>
-            <!-- 右侧内容 -->
-            这是吴贤铭智能工程学院最帅气的老师！
-            <a href="http://www2.scut.edu.cn/wusie/2020/0425/c25374a489901/page.htm">详细内容...</a>  
+            <!--右侧内容-->
+            <div class="big-text">波浪发电装置在中远海风电漂浮平台上的减震与发电应用</div>
+            项目简介：建立准确的新能源场站模型是研究大规模新能源接入对电网影响的基础。从大规模新能源接入对系统功角稳定性、频率稳定性、电压稳定性、和电力电子多频段振荡角度出发，研究大规模电力系统仿真对新能源场站模型的需求，提取新能源场站模型对大规模电力系统仿真的关键影响因素，提出新能源场站等值模型。
         </td>
     </tr>
 </table>
 </html>
-
 
 # Publications
 [32] Wenhua Ding, Yufei Wang, Tingyu Chen, Zhenghong Lu, Yue You, Jingyu Wang, and Zhicong Huang*, “A stacking machine-learning based method for accelerating magnetic coupler design with ferrite cores in inductive power transfer applications,” International Journal of Circuit Theory and Applications, to appear.
