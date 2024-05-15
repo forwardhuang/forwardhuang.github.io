@@ -15,8 +15,6 @@ redirect_from:
 
 
 # Research area
-
-
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -177,15 +175,17 @@ redirect_from:
 
 # Honors and Awards
 
-[1]   2023年，ABB杯智能技术创新大赛（变频器半导体温度预测AI建模挑战赛）二等奖；
 
-[2]   2022年，青蓝国际创新创业大赛初创组三等奖，“应用于自动导引车和新能源汽车的无线充电装置的研发及产业化”；
 
-[3]   2022年，IEEE PEAC会议优秀论文奖；
+[1]   2023，IEEE JETCAS最佳审稿人奖
 
-[4]   2022年，入选中国科协战略发展部科技智库青年人才计划；
+[2]   2022，IEEE PEAC优秀论文奖
 
-[5]   2021年，IEEE TPEL（电力电子领域权威期刊）杰出审稿人奖；
+[3]   2022，入选中国科协战略发展部科技智库青年人才计划
+
+[4]   2021，电力电子权威期刊IEEE TPEL杰出审稿人奖
+
+[5]   2019，IEEE PES APPEEC Best Paper Award
 
 [6]   2019年，IEEE PES（电力与能源学会）APPEEC会议最佳论文奖；
 
