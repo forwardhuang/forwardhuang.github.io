@@ -68,7 +68,7 @@ redirect_from:
     <tr>
         <td>
             <!--左侧内容-->
-            <img src="../images/研究方向大规模新能源.png" />
+            <img src="../images/研究方向波浪发电.png" />
         </td>
         <td>
             <!--右侧内容-->
@@ -109,6 +109,46 @@ redirect_from:
     </tr>
 </table>
 </html>
+
+
+
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>左右两列布局示例</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center; /* 水平居中 */
+            align-items: center; /* 垂直居中 */
+        }
+        .column {
+            flex: 1; /* 平分容器宽度 */
+            padding: 20px;
+        }
+        .column img {
+            max-width: 100%;
+            height: auto;
+            display: block; /* 避免图片底部留白 */
+            margin: 0 auto; /* 图片水平居中 */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="column">
+        <img src="../images/研究方向波浪发电.png" alt="图片">
+    </div>
+    <div class="column">
+        <p>这里是解释文字。可以是一段文字，也可以是其他内容。</p>
+    </div>
+</div>
+
+</body>
+</html>
+
 
 # Publications
 [32] Wenhua Ding, Yufei Wang, Tingyu Chen, Zhenghong Lu, Yue You, Jingyu Wang, and Zhicong Huang*, “A stacking machine-learning based method for accelerating magnetic coupler design with ferrite cores in inductive power transfer applications,” International Journal of Circuit Theory and Applications, to appear.
