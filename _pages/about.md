@@ -149,11 +149,11 @@ redirect_from:
 # Publications
 [32] Wenhua Ding, Yufei Wang, Tingyu Chen, Zhenghong Lu, Yue You, Jingyu Wang, and Zhicong Huang*, “A stacking machine-learning based method for accelerating magnetic coupler design with ferrite cores in inductive power transfer applications,” International Journal of Circuit Theory and Applications, to appear.
 
-[31] Hai Xu, Zhicong Huang*, Xiaolu Lucia Li*, and Chi K. Tse, [“Misalignment-tolerant IPT coupler with enhanced magnetic flux variation suppression and reduced copper usage,”](https://ieeexplore.ieee.org/document/10494318)IEEE Transactions on Power Electronics, to appear.[(PDF)](/files/31.pdf) 
+[31] Hai Xu, Zhicong Huang*, Xiaolu Lucia Li*, and Chi K. Tse, [“Misalignment-tolerant IPT coupler with enhanced magnetic flux variation suppression and reduced copper usage,”](https://ieeexplore.ieee.org/document/10494318)IEEE Transactions on Power Electronics, to appear.[[PDF]](/files/31.pdf) 
 
-[30] Zhicong Huang*, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse, [“Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles,”](https://ieeexplore.ieee.org/document/10480593)IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7766-7777, Jun. 2024.[(PDF)](/files/30.pdf) 
+[30] Zhicong Huang*, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse, [“Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles,”](https://ieeexplore.ieee.org/document/10480593)IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7766-7777, Jun. 2024.[[PDF]](/files/30.pdf) 
 
-[29] Bowei Zou and Zhicong Huang*, [“Primary-frequency-tuning and secondary-impedance-matching IPT converter with programmable constant power output and optimal efficiency tracking against variation of coupling coefficient,”](https://ieeexplore.ieee.org/document/10399825) IEEE Transactions on Power Electronics, vol. 39, no. 4, pp. 4895-4909, Apr. 2024.[(PDF)](/files/29.pdf) 
+[29] Bowei Zou and Zhicong Huang*, [“Primary-frequency-tuning and secondary-impedance-matching IPT converter with programmable constant power output and optimal efficiency tracking against variation of coupling coefficient,”](https://ieeexplore.ieee.org/document/10399825) IEEE Transactions on Power Electronics, vol. 39, no. 4, pp. 4895-4909, Apr. 2024.[[PDF]](/files/29.pdf) 
 
 <html lang="zh-CN">
 <div style="text-align: right;">
