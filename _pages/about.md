@@ -134,8 +134,8 @@ redirect_from:
         <img src="../images/研究方向波浪发电.png" alt="图片">
     </div>
     <div class="column">
-        <p class="first-paragraph">	波浪发电装置在中远海风电漂浮平台上的减震与发电应用</p>
-            <strong>项目简介：</strong>
+        <p class="first-paragraph">	波浪发电装置</p>
+            <strong>项目简介：</strong>波浪发电装置在中远海风电漂浮平台上的减震与发电应用。
     </div>
 </div>
 
@@ -198,7 +198,7 @@ redirect_from:
 [11]  程遥（13/15），济南城市中心、次中心与卫星城规划布局研究，全国优秀城乡规划设计奖，表扬奖，2018.
 
 # News
-{% for post in site.news %}
+<!-- {% for post in site.news %}
   {% include archive-single.html %}
-{% endfor %} 
+{% endfor %}  -->
 <!-- 用于遍历某个文件夹中的所有文章 -->
