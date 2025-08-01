@@ -13,9 +13,9 @@ categories:
 
 links:
 
-  - git-api: https://api.github.com/repos/mkhangg/refined_panoptic_mapping
-    category: research
+  # - git-api: https://api.github.com/repos/mkhangg/refined_panoptic_mapping
+  #   category: research
 
 
-  - git-api: https://api.github.com/repos/mkhangg/robotech22
-    category: outreach
+  # - git-api: https://api.github.com/repos/mkhangg/robotech22
+  #   category: outreach
