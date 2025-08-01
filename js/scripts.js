@@ -19,11 +19,11 @@ btn.on('click', function(e) {
 });
 
 
-// Play pronunciation audio when the emoji is clicked
-document.getElementById('volumeEmoji').addEventListener('click', function() {
-    const pronunicationAudio = new Audio('assets/sounds/khang.mp3');
-    pronunicationAudio.play();
-});
+// // Play pronunciation audio when the emoji is clicked
+// document.getElementById('volumeEmoji').addEventListener('click', function() {
+//     const pronunicationAudio = new Audio('assets/sounds/khang.mp3');
+//     pronunicationAudio.play();
+// });
 
 
 // Toggle navigation menu bar
