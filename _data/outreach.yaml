@@ -6,7 +6,7 @@ mini-projects:
     event: Guangzhou Power Supply Bureau of Guangdong Power Grid Co., Ltd.
     event-web: 
     team: #Zobia Tahir, Diya Ranjit, Jose Morales, ChangHao Yang, <u>Khang Nguyen</u>.
-    #post: 
+    post: 
     code: 
     demo: 
     description: We build a versatile software module for semantic scene understanding for broadly vision-based automation applications, including robots or unmanned vehicles installed with the Intel RealSense camera family with resource-constraint computing platforms. The video demonstrates the Sawyer manipulator to "see" the bottle, pick it, and put it into a destination box.
