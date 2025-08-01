@@ -22,7 +22,7 @@ projects:
     conference: IEEE Transactions on Power Electronics
     conference-web: #https://iros2024-abudhabi.org/
     status:
-    authors: B. Zou, Z. Huang, I. W. Iam, and C. S. Lam
+    authors: B. Zou, <u> Z. Huang </u>, I. W. Iam, and C. S. Lam
     pdf: https://doi.org/10.1109/TPEL.2017.2724039
     code: # https://github.com/mkhangg/refined_panoptic_mapping
     demo: # https://youtu.be/u214kCms27M
