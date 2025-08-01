@@ -1,13 +1,16 @@
 categories:
 
+  - data-filter: talk
+    category-name: Invited Talks
+
   - data-filter: journal
     category-name: Journal Papers
 
   - data-filter: slam
     category-name: slam
 
-  - data-filter: framework
-    category-name: framework
+  - data-filter: conference
+    category-name: Prize Conference Papers
 
 
 projects:
