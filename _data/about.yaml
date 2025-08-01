@@ -29,14 +29,15 @@ website: #https://mkhangg.com/
 web-dns: #mkhangg.com
 
 # about me
-first-paragraph: I am an <hightlight>Associate Professor</hightlight> at <a href="https://www.scut.edu.cn/en/" target="_blank" rel="noopener">South China University of Technology</a>. Prior to that, I was a <hightlight>Postdoctoral Fellow under UM Talent Program</hightlight> with <a href="https://ime.um.edu.mo/" target="_blank" rel="noopener">the State Key Laboratory of Analog and Mixed-Signal VLSI (AMSV), University of Macau</a>.
-second-paragraph: I grew up in <a href="https://en.wikipedia.org/wiki/Saigon" target="_blank" rel="noopener">Saigon, Vietnam</a>, and was fortunate to spend my most memorable time at the <a href="https://en.wikipedia.org/wiki/VNU-HCM_High_School_for_the_Gifted" target="_blank" rel="noopener">VNU-HCM High School for the Gifted</a> (informatics program of 2020) and previously <a href="https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Ngh%C4%A9a_High_School_for_the_Gifted" target="_blank" rel="noopener">TĐN Secondary School for the Gifted</a> (mathematics program of 2017) with very good friends - too many to name them here, where we played football (soccer) on concrete fields together afterschool.
+first-paragraph: I am an Associate Professor at <a href="https://www.scut.edu.cn/en/" target="_blank" rel="noopener">South China University of Technology</a>, Guangzhou, China. Prior to that, I was a Postdoctoral Fellow under UM Talent Program with <a href="https://ime.um.edu.mo/" target="_blank" rel="noopener">the State Key Laboratory of Analog and Mixed-Signal VLSI (AMSV), University of Macau</a>, Macao, China.
+second-paragraph: Dr. Huang serves as an Associate Editor for IEEE Transactions on Consumer Electronics and a Guest Editor for IEEE Open Journal of Circuits and Systems. He is also an active peer reviewer for various top IEEE journals and has been recognized with 4 reviewer awards from IEEE journals.
+
 research-introduction: My research interest is <hightlight>Power Electronics and its interdisciplinary applications</hightlight>, mainly focusing on 
 
 research-interests:
 
-  - field: Robotic Perception
-    subfields: semantic scene understanding, perception for grasping
+  - field: Wireless Power Transfer
+    subfields: #semantic scene understanding, perception for grasping
   
-  - field: Robotic Manipulation
-    subfields: learning to grasp, manipulative visual-motor skills
+  - field: Artificial Intelligence for Power Electronics
+    subfields: #learning to grasp, manipulative visual-motor skills
