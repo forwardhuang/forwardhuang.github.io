@@ -14,11 +14,11 @@ researchgate: https://www.researchgate.net/profile/Zhicong-Huang
 github: https://github.com/forwardhuang
 youtube: #https://www.youtube.com/@_m.khangg_
 resume: #assets/doc/Resume_KhangNguyen.pdf
-projects: show            # delete "show" or leave it blank to hide this icon
+projects: #show            # delete "show" or leave it blank to hide this icon
 location: https://maps.app.goo.gl/ZiFKkBw4YBvGzRo96
 codepen: 
 orcid: https://orcid.org/0000-0002-0129-5176
-contact: show            # delete "show" or leave it blank to hide this icon
+contact: #show            # delete "show" or leave it blank to hide this icon
 
 # information for contact card
 dept: South China University of Technology
