@@ -29,7 +29,7 @@ main:
     pdf: https://doi.org/10.1016/j.enconman.2025.119850
     code: # https://github.com/MrGiovanni/ContinualLearning
     bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: # ./assets/img/Zhang2025Built.jpg
+    image: ./assets/img/Zhang2025Multi.jpg
     notes: # Early Accept
 
   - title: Control-free inductive-power-transfer transmitter with misalignment tolerance
