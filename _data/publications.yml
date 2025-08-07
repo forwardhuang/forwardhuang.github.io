@@ -1,14 +1,48 @@
 main:
 
   - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
-    authors: Yongxing Zhang, Jing Bian, and <strong>Zhicong Huang*</strong>
-    conference_short: MICCAI
+    authors: Yongxing Zhang, Jing Bian, <strong>Zhicong Huang*</strong>
+    conference_short: # MICCAI
     conference: Renewable Energy, 2025
     pdf: https://doi.org/10.1016/j.renene.2025.123679
     code: # https://github.com/MrGiovanni/ContinualLearning
     bibtex: # https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Zhang2025Built.jpg
     notes: # Early Accept
+
+
+  - title: Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation
+    authors: Hai Xu, Jingyu Wang, <strong>Zhicong Huang*</strong>
+    conference_short: # MICCAI
+    conference: IEEE Transactions on Power Electronics, 2025
+    pdf: https://doi.org/10.1109/TPEL.2025.3569698
+    code: # https://github.com/MrGiovanni/ContinualLearning
+    bibtex: # https://bib.yliu.me/MICCAI23.txt
+    image: # ./assets/img/Zhang2025Built.jpg
+    notes: # Early Accept
+
+
+  - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
+    authors: Yongxing Zhang, <strong>Zhicong Huang*</strong>, Jing Bian, Junwei Liu, Ning Su
+    conference_short: # MICCAI
+    conference: Energy Conversion and Management, 2025
+    pdf: https://doi.org/10.1016/j.enconman.2025.119850
+    code: # https://github.com/MrGiovanni/ContinualLearning
+    bibtex: # https://bib.yliu.me/MICCAI23.txt
+    image: # ./assets/img/Zhang2025Built.jpg
+    notes: # Early Accept
+
+  - title: Control-free inductive-power-transfer transmitter with misalignment tolerance
+    authors: Hai Xu, <strong>Zhicong Huang*</strong>, Xiaolu Lucia Li, Chi K. Tse 
+    conference_short: # MICCAI
+    conference: IEEE Transactions on Transportation Electrification, 2025
+    pdf: https://doi.org/10.1109/TTE.2025.3560483
+    code: # https://github.com/MrGiovanni/ContinualLearning
+    bibtex: # https://bib.yliu.me/MICCAI23.txt
+    image: # ./assets/img/Zhang2025Built.jpg
+    notes: # Early Accept
+
+
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
