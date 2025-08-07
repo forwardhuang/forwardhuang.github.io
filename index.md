@@ -22,7 +22,7 @@ I am serving as an Associate Editor for IEEE Transactions on Consumer Electronic
 ## News
 
 - **[Jul. 2025]** Scheduled to deliver a tutorial on "Advanced Static and Dynamic Wireless Charging: Empowering Modern EVs and AGVs" at IECON2025, Madrid.
-- **[Jun. 2025]** Awarded Second Prize in the Student Design Competition at WPTCE 2025, Rome.
+- **[Jun. 2025]** Awarded Second Prize in the Student Design Competition at WPTCE2025, Rome.
 
 
 {% include_relative _includes/publications.md %}
