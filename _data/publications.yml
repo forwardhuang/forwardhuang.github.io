@@ -16,7 +16,7 @@ main:
     conference_short: # MICCAI
     conference: IEEE Transactions on Power Electronics, 2025
     pdf: https://doi.org/10.1109/TPEL.2025.3569698
-    code: ./assets/files/Xu2025Large.pdf
+    code: ./assets/files/2025-Xu-Large-TPE.pdf
     bibtex: # https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Xu2025Large.gif
     notes: # Early Accept
