@@ -21,10 +21,9 @@ I am serving as an Associate Editor for IEEE Transactions on Consumer Electronic
 
 ## News
 
-- **[Feb. 2020]** Scheduled to give a tutorial on in IECON2025.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2025]** Scheduled to deliver a tutorial on "Advanced Static and Dynamic Wireless Charging: Empowering Modern EVs and AGVs" at IECON2025, Madrid.
+- **[Jun. 2025]** Awarded Second Prize in the Student Design Competition at WPTCE 2025, Rome.
+
 
 {% include_relative _includes/publications.md %}
 
