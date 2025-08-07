@@ -1,14 +1,14 @@
 main:
 
-  - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
-    authors: Yongxing Zhang, Jing Bian, <strong>Zhicong Huang*</strong>
-    conference_short: # MICCAI
-    conference: Renewable Energy, 2025
-    pdf: https://doi.org/10.1016/j.renene.2025.123679
-    code: # https://github.com/MrGiovanni/ContinualLearning
-    bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Zhang2025Built.jpg
-    notes: # Early Accept
+  # - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
+  #   authors: Yongxing Zhang, Jing Bian, <strong>Zhicong Huang*</strong>
+  #   conference_short: # MICCAI
+  #   conference: Renewable Energy, 2025
+  #   pdf: https://doi.org/10.1016/j.renene.2025.123679
+  #   code: # https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: # https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/Zhang2025Built.jpg
+  #   notes: # Early Accept
 
 
   - title: Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation
@@ -22,15 +22,15 @@ main:
     notes: # Early Accept
 
 
-  - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
-    authors: Yongxing Zhang, <strong>Zhicong Huang*</strong>, Jing Bian, Junwei Liu, Ning Su
-    conference_short: # MICCAI
-    conference: Energy Conversion and Management, 2025
-    pdf: https://doi.org/10.1016/j.enconman.2025.119850
-    code: # https://github.com/MrGiovanni/ContinualLearning
-    bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Zhang2025Multi.jpg
-    notes: # Early Accept
+  # - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
+  #   authors: Yongxing Zhang, <strong>Zhicong Huang*</strong>, Jing Bian, Junwei Liu, Ning Su
+  #   conference_short: # MICCAI
+  #   conference: Energy Conversion and Management, 2025
+  #   pdf: https://doi.org/10.1016/j.enconman.2025.119850
+  #   code: # https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: # https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/Zhang2025Multi.jpg
+  #   notes: # Early Accept
 
   - title: Control-free inductive-power-transfer transmitter with misalignment tolerance
     authors: Hai Xu, <strong>Zhicong Huang*</strong>, Xiaolu Lucia Li, Chi K. Tse 
