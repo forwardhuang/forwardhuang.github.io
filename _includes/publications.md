@@ -1,7 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Highlighted Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
+
+A full list of pulications can be found on [my google scholar](https://scholar.google.com/citations?user=8Q6n2YoAAAAJ&hl=en).
 
 {% for link in site.data.publications.main %}
 
