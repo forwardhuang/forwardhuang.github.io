@@ -18,7 +18,7 @@ main:
     pdf: https://doi.org/10.1109/TPEL.2025.3569698
     code: # https://github.com/MrGiovanni/ContinualLearning
     bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: # ./assets/img/Zhang2025Built.jpg
+    image: ./assets/img/Xu2025Large.gif
     notes: # Early Accept
 
 
