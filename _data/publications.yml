@@ -10,6 +10,27 @@ main:
   #   image: ./assets/img/Zhang2025Built.jpg
   #   notes: # Early Accept
 
+  - title: A single-stage IPT converter with optimal efficiency tracking and constant voltage output against dynamic variations of coupling and load
+    authors: <strong>Zhicong Huang*</strong>, Bowei Zou, Zhenwei Huang, Herbert Ho-Ching Iu, and Chi K. Tse
+    conference_short: # MICCAI
+    conference:  IEEE Transactions on Transportation Electrification, 2025
+    pdf: https://doi.org/10.1109/TTE.2024.3407717
+    code: ./assets/files/2025-Huang-single-TTE.pdf
+    bibtex: # https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Huang2025single.gif
+    notes: # Early Accept
+
+    - title: Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles
+    authors: <strong>Zhicong Huang*</strong>, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse
+    conference_short: # MICCAI
+    conference:  IEEE Transactions on Power Electronics, 2024
+    pdf: https://doi.org/10.1109/TPEL.2024.3382112
+    code: ./assets/files/2024-Huang-Synthesis-TPE.pdf
+    bibtex: # https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Huang2024Synthesis.gif
+    notes: # Early Accept
+
+
 
   - title: Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation
     authors: Hai Xu, Jingyu Wang, <strong>Zhicong Huang*</strong>
