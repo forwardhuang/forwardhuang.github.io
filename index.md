@@ -37,7 +37,6 @@ I am serving as an Associate Editor for IEEE Transactions on Consumer Electronic
 - Guest Editor, IEEE Open Journal of Circuits and Systems, 2024 (Special Issue “Artificial Intelligence in Power Electronics”,)
 
 ### Peer Review
-- IEEE Transactions on Power Electronics 
--- Outstanding Reviewer Award in 2021 and 2024
+- IEEE Transactions on Power Electronics (Outstanding Reviewer Award in 2021 and 2024)
 - IEEE Journal of Emerging and Selected Topics on Power Electronics (Best Reviewer Award in 2023 and 2024)
 
