@@ -28,4 +28,8 @@ I am serving as an Associate Editor for IEEE Transactions on Consumer Electronic
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
+
+## IEEE Services
+# Journal Editorship
+- Associate Editor, IEEE Transactions on Consumer Electronics, since 2024
