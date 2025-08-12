@@ -31,12 +31,12 @@ I am serving as an Associate Editor for IEEE Transactions on Consumer Electronic
 <!-- {% include_relative _includes/services.md %} -->
 
 ## IEEE Services
-# Journal Editorship
+### Journal Editorship
 - Associate Editor, IEEE Transactions on Consumer Electronics, since 2024
 - Guest Editor, IEEE Transactions on Consumer Electronics, 2025 (Special Issue “Advanced Wireless Power Transfer Technologies for Portable Electronics”)
 - Guest Editor, IEEE Open Journal of Circuits and Systems, 2024 (Special Issue “Artificial Intelligence in Power Electronics”,)
 
-# Peer Review
+### Peer Review
 - IEEE Transactions on Power Electronics (Outstanding Reviewer Award in 2021 and 2024)
 - IEEE Journal of Emerging and Selected Topics on Power Electronics (Best Reviewer Award in 2023 and 2024)
 
