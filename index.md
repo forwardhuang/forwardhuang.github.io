@@ -20,7 +20,7 @@ I am serving as an Associate Editor for IEEE Transactions on Consumer Electronic
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
-- **[Aug. 2025]** Our project entitled “Efficient Constant Magnetic Flux Coupling Mechanism and Key Technologies for Dynamic Wireless Power Transfer Based on Sparse Coil Arrays” has been approved and funded by the National Natural Science Foundation of China.
+- **[Aug. 2025]** Our project entitled “Efficient Constant Magnetic Flux Coupling Mechanism and Key Technologies for Dynamic Wireless Power Transfer Based on Sparse Coil Arrays” has been approved by the National Natural Science Foundation of China.
 - **[Jul. 2025]** Scheduled to deliver a tutorial on "Advanced Static and Dynamic Wireless Charging: Empowering Modern EVs and AGVs" at IECON2025, Madrid.
 - **[Jun. 2025]** [Special section on "Advanced Wireless Power Transfer Technologies for Portable Electronics"](https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/June_2025/TCE_SS_CFP_Advanced_Wireless_Power_Transfer_Technologies_for_Portable_Electronics-online.pdf) Launched in IEEE Transactions on Consumer Electronics.
 - **[Jun. 2025]** Awarded Second Prize in the Student Design Competition at WPTCE2025, Rome.
