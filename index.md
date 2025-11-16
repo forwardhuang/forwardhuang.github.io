@@ -20,6 +20,8 @@ I am serving as an Associate Editor for IEEE Transactions on Consumer Electronic
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[Nov. 2025]** Our project entitle "LLM Based Automatic PCB Layout" won second prize award in CPSS DComPE2025.
+- **[Nov. 2025]** Received Excellent Paper Award in IEEE PEAS 2025.
 - **[Sep. 2025]** Named in World's Top 2% Scientists list by ELSEVIER and Standford University.
 - **[Aug. 2025]**  <font color=red>Our project entitled “Efficient Constant Magnetic Flux Coupling Mechanism and Key Technologies for Dynamic Wireless Power Transfer Based on Sparse Coil Arrays” has been approved by the National Natural Science Foundation of China.</font>
 - **[Jul. 2025]** Scheduled to deliver a tutorial on "Advanced Static and Dynamic Wireless Charging: Empowering Modern EVs and AGVs" at IECON2025, Madrid.
