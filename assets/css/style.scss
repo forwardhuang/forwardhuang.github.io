@@ -1,4 +1,4 @@
----
+﻿---
 ---
 
 @import "minimal-light";
@@ -20,80 +20,36 @@
   font-size: 0.96rem;
 }
 
-.publication-highlights .bibliography {
-  margin: 0;
-  padding-left: 0;
-  list-style: none;
+.publication-groups {
+  margin-top: 14px;
 }
 
-.highlight-card {
+.publication-category {
+  margin: 24px 0 30px;
+}
+
+.publication-category-title {
   display: flex;
-  gap: 18px;
-  margin: 0 0 18px;
-  padding: 16px;
-  border: 1px solid #e8edf3;
-  border-radius: 10px;
-  background: #fff;
-  box-shadow: 0 8px 24px rgba(31, 45, 61, 0.06);
-}
-
-.pub-media {
-  flex: 0 0 30%;
-  max-width: 180px;
-  padding: 0 !important;
-}
-
-.pub-media img.teaser {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  object-fit: cover;
-}
-
-.pub-content {
-  flex: 1 1 auto;
-  padding: 0 !important;
-}
-
-.pub-content .title {
-  font-weight: 700;
-  line-height: 1.35;
-}
-
-.pub-content .author,
-.pub-content .periodical {
-  margin-top: 4px;
-  color: #555;
-  font-size: 0.94rem;
-  line-height: 1.45;
-}
-
-.links,
-.list-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 8px;
-}
-
-.links .btn,
-.list-links a {
-  display: inline-block;
-  padding: 3px 9px;
-  border: 1px solid #d7e2ee;
-  border-radius: 999px;
-  background: #f7faff;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 12px;
   color: #2f4f7f;
-  font-size: 0.78rem;
-  font-weight: 600;
-  text-decoration: none;
+  font-size: 1.06rem;
+  font-weight: 700;
 }
 
-.links .btn:hover,
-.list-links a:hover {
-  border-color: #2f4f7f;
-  background: #2f4f7f;
-  color: #fff;
+.publication-category-title span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  height: 20px;
+  padding: 0 7px;
+  border-radius: 999px;
+  background: #edf3fa;
+  color: #4a6282;
+  font-size: 0.74rem;
+  font-weight: 700;
 }
 
 .publication-list-panel {
@@ -110,14 +66,11 @@
   margin-bottom: 12px;
   padding-bottom: 12px;
   border-bottom: 1px solid #edf1f5;
+  line-height: 1.55;
 }
 
 .publication-list li:last-child {
   border-bottom: 0;
-}
-
-.citation-list li {
-  line-height: 1.55;
 }
 
 .citation-text {
@@ -176,12 +129,9 @@
 }
 
 @media (max-width: 720px) {
-  .highlight-card {
-    display: block;
-  }
-
-  .pub-media {
-    max-width: none;
-    margin-bottom: 12px;
+  .publication-category-title {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 4px;
   }
 }
