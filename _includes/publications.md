@@ -1,4 +1,4 @@
-﻿<br>
+<br>
 <h2 id="publications" class="section-title">Publications</h2>
 
 <p class="publication-note">
