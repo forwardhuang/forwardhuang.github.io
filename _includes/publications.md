@@ -1,10 +1,5 @@
 <br>
-<h2 id="publications" class="section-title">Publications</h2>
-
-<p class="publication-note">
-  Journal papers are grouped by research direction. A complete publication record is also available on
-  <a href="https://scholar.google.com/citations?user=8Q6n2YoAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.
-</p>
+<h2 id="publications" class="section-title">Selected Papers</h2>
 
 {% assign publication_categories = "AI for Power Electronics|Wireless Power Transfer|Other Power Electronics|Wave Energy Converters" | split: "|" %}
 
@@ -13,8 +8,8 @@
   {% assign category_publications = site.data.publications.main | where: "category", category %}
   {% if category_publications.size > 0 %}
   <section class="publication-category">
-    <h3 class="publication-category-title">{{ category }} <span>{{ category_publications.size }}</span></h3>
-    <ol class="publication-list citation-list">
+    <h3 class="publication-category-title">{{ category }}</h3>
+    <ul class="publication-list citation-list">
       {% for link in category_publications %}
       <li>
         <span class="citation-text">
@@ -32,7 +27,7 @@
         </span>
       </li>
       {% endfor %}
-    </ol>
+    </ul>
   </section>
   {% endif %}
   {% endfor %}
