@@ -1,77 +1,436 @@
-main:
+﻿main:
+  - title: "DFFT-Net: dual-path feature fusion transfer network for power electronics lifetime prediction under diverse operating conditions"
+    category: "AI for Power Electronics"
+    conference: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+    year_status: "in press"
+    citation: >-
+      Shuhan Deng, Hao Lan, Ke Yue, Zhuyun Chen, <strong>Zhicong Huang</strong>, and Weihua Li, “DFFT-Net: dual-path feature fusion transfer network for power electronics lifetime prediction under diverse operating conditions,” IEEE Journal of Emerging and Selected Topics in Power Electronics, in press.
+    pdf: "https://doi.org/10.1109/jestpe.2026.3695590"
+  - title: "Single inverter driven segmented DWPT transmitter track based on separated-rectangular quadrature Pad"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "in press"
+    citation: >-
+      Hai Xu, Junwei Liu*, Jingyu Wang, Fei Xu, Xian Zhang, and <strong>Zhicong Huang*</strong>, “Single inverter driven segmented DWPT transmitter track based on separated-rectangular quadrature Pad,” IEEE Transactions on Power Electronics, in press.
+    pdf: "https://doi.org/10.1109/tpel.2026.3695419"
+  - title: "A review of modular wireless power transfer systems: topological architectures, imbalance challenges, and mitigation strategies"
+    category: "Wireless Power Transfer"
+    conference: "Chinese Journal of Electrical Engineering"
+    year_status: "in press"
+    citation: >-
+      Yu Wang and <strong>Zhicong Huang*</strong>, “A review of modular wireless power transfer systems: topological architectures, imbalance challenges, and mitigation strategies,” Chinese Journal of Electrical Engineering, in press.
+  - title: "基于大语言模型的PCB自动化设计智能体"
+    category: "AI for Power Electronics"
+    conference: "电力电子技术"
+    year_status: "in press"
+    citation: >-
+      黄俊,翁振宇,<strong>黄智聪*</strong>.基于大语言模型的PCB自动化设计智能体[J].电力电子技术,录用.
+  - title: "A unipolar-bipolar composite coils-based inductive power transfer system with misalignment-tolerant and inherent CC-CV charging profile"
+    category: "Wireless Power Transfer"
+    conference: "International Journal of Circuit Theory and Applications"
+    year_status: "in press"
+    citation: >-
+      Pinhao Fang, Yu Wang, Osama Younas, Wei Jiang, Jiaying Mo, and <strong>Zhicong Huang*</strong>, “A unipolar-bipolar composite coils based inductive power transfer system with misalignment-tolerant and inherent CC-CV charging profile,” International Journal of Circuit Theory and Applications, in press.
+    pdf: "https://doi.org/10.1002/cta.70400"
+  - title: "A wide-output-range high-eﬀiciency wire-less power transfer system using novel Cuk-based single-stage partial power conversion architecture"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "in press"
+    citation: >-
+      Muxing Wu, Io-Wa Iam, <strong>Zhicong Huang*</strong>, and Chi-Seng Lam*, “A wide-output-range high-eﬀiciency wire-less power transfer system using novel Cuk-based single-stage partial power conversion architecture,” IEEE Transactions on Power Electronics, in press.
+    pdf: "https://doi.org/10.1109/tpel.2026.3681281"
+    notes: "Crossref final citation metadata: vol. 41, no. 9, pp. 16643-16657, Sep. 2026."
+  - title: "A dual-channel wireless charging system with strong anti-misalignment capability for single or dual automated guided vehicle"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Industrial Electronics"
+    year_status: "in press"
+    citation: >-
+      Yuanchao Wu, Io-Wa Iam*, Zongrui Yang, <strong>Zhicong Huang</strong>, and Chi-Seng Lam*, “A dual-channel wireless charging system with strong anti-misalignment capability for single or dual automated guided vehicle,” IEEE Transactions on Industrial Electronics, in press.
+    pdf: "https://doi.org/10.1109/tie.2026.3663794"
+    notes: "Crossref final citation metadata: vol. 73, no. 8, pp. 11386-11398, Aug. 2026."
+  - title: "Hybrid modeling approach combining analytical and neural ordinary differential equations for accelerated simulation of grid-tied inverter"
+    category: "AI for Power Electronics"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2026"
+    citation: >-
+      Yaofeng Liang, <strong>Zhicong Huang*</strong>, and Yu Chen*, “Hybrid modeling approach combining analytical and neural ordinary differential equations for accelerated simulation of grid-tied inverter,” IEEE Transactions on Power Electronics, vol. 41, no. 7, pp. 11867-11878, Jul. 2026.
+    pdf: "https://doi.org/10.1109/tpel.2026.3659885"
+  - title: "基于人工智能优化插值的直流输电线路相域频变建模方法"
+    category: "AI for Power Electronics"
+    conference: "电气工程学报"
+    year_status: "2025"
+    citation: >-
+      杨凌云, 胡斌江, 伍文聪, <strong>黄智聪*</strong>. 基于人工智能优化插值的直流输电线路相域频变建模方法 [J]. 电气工程学报,2025,20(05):55-65.
+  - title: "Dual-band complementary compensation for a 2-coil single-ended IPT converter achieving omnidirectional misalignment tolerance across a wide load range"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Industrial Electronics"
+    year_status: "in press"
+    citation: >-
+      Jingyu Wang and <strong>Zhicong Huang*</strong>, “Dual-band complementary compensation for a 2-coil single-ended IPT converter achieving omnidirectional misalignment tolerance across a wide load range,” IEEE Transactions on Industrial Electronics, in press.
+    pdf: "https://doi.org/10.1109/tie.2025.3629361"
+    notes: "Crossref final citation metadata: vol. 73, no. 4, pp. 5386-5396, Apr. 2026."
+  - title: "A single-switch IPT driver for unipolar-bipolar composite coils achieving misalignment tolerance"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2026"
+    citation: >-
+      <strong>Zhicong Huang</strong>, Jingyu Wang*, Jun Cheng, and Chi-Kwan Lee, “A single-switch IPT driver for unipolar-bipolar composite coils achieving misalignment tolerance,” IEEE Transactions on Power Electronics, vol. 41, no. 2, pp. 1569–1573, Feb. 2026.
+    pdf: "https://doi.org/10.1109/tpel.2025.3614264"
+  - title: "Transfer learnable physics-informed neural network surrogating grid-tied inverters for renewable power system simulation"
+    category: "AI for Power Electronics"
+    conference: "IEEE Transactions on Industrial Electronics"
+    year_status: "2026"
+    citation: >-
+      Canjun Yuan, Changyue Zou, and <strong>Zhicong Huang*</strong>, “Transfer learnable physics-informed neural network surrogating grid-tied inverters for renewable power system simulation,” IEEE Transactions on Industrial Electronics, vol. 73, no. 2, pp. 2487–2498, Feb. 2026.
+    pdf: "https://doi.org/10.1109/tie.2025.3613652"
+  - title: "Adaptive main-module based partial power processing for wide-range operation of current-source driven modular MVDC"
+    category: "Other Power Electronics"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2026"
+    citation: >-
+      Zhijian Fang, Chi Zhang, Jinbo Zhao, Han Fu, Chunyu Ye, and <strong>Zhicong Huang*</strong>, “Adaptive main-module based partial power processing for wide-range operation of current-source driven modular MVDC,” IEEE Transactions on Power Electronics, vol. 41, no. 1, pp. 675–688, Jan. 2026.
+    pdf: "https://doi.org/10.1109/tpel.2025.3603284"
+  - title: "A Novel coordinated control strategy for VSG to enhance power tracking speed without degrading inertia support capability"
+    category: "Other Power Electronics"
+    conference: "IET Power Electronics"
+    year_status: "2026"
+    citation: >-
+      Yubing Pang, Xiaohui Qu*, Guanglei Yan, and <strong>Zhicong Huang</strong>, “A Novel coordinated control strategy for VSG to enhance power tracking speed without degrading inertia support capability,” IET Power Electronics, vol. 19, no. 1, pp. e70193, 2026.
+    pdf: "https://doi.org/10.1049/pel2.70193"
+  - title: "Built-in wave energy converter inspired adaptive vibration control for offshore floating platform"
+    category: "Wave Energy Converters"
+    conference: "Renewable Energy"
+    year_status: "2025"
+    citation: >-
+      Yongxing Zhang, Jing Bian, and <strong>Zhicong Huang*</strong>, “Built-in wave energy converter inspired adaptive vibration control for offshore floating platform,” Renewable Energy, vol. 254, pp. 123679, Dec. 2025.
+    pdf: "https://doi.org/10.1016/j.renene.2025.123679"
+  - title: "Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2025"
+    citation: >-
+      Hai Xu, Jingyu Wang, <strong>Zhicong Huang*</strong>, “Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation,” IEEE Transactions on Power Electronics, vol. 40, no. 9, pp. 14134--14145, Sep. 2025.
+    pdf: "https://doi.org/10.1109/tpel.2025.3569698"
+    code: "./assets/files/2025-Xu-Large-TPE.pdf"
+  - title: "Multi-degree-of-freedom decoupled mechanism for improving energy harvesting performance of wave energy converter"
+    category: "Wave Energy Converters"
+    conference: "Energy Conversion and Management"
+    year_status: "2025"
+    citation: >-
+      Yongxing Zhang, <strong>Zhicong Huang*</strong>, Jing Bian, Junwei Liu, and Ning Su, “Multi-degree-of-freedom decoupled mechanism for improving energy harvesting performance of wave energy converter,” Energy Conversion and Management, vol. 334, pp. 119850, Jun. 2025.
+    pdf: "https://doi.org/10.1016/j.enconman.2025.119850"
+  - title: "Control-free inductive-power-transfer transmitter with misalignment tolerance"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Transportation Electrification"
+    year_status: "2025"
+    citation: >-
+      Hai Xu, <strong>Zhicong Huang*</strong>, Xiaolu Lucia Li, and Chi K. Tse, “Control-free inductive-power-transfer transmitter with misalignment tolerance,” IEEE Transactions on Transportation Electrification, vol. 11, no. 4, pp. 9753--9763, Aug. 2025.
+    pdf: "https://doi.org/10.1109/tte.2025.3560483"
+  - title: "Detuned design methodology of anti-misalignment capacitive power transfer converter"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+    year_status: "2025"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Yu Wang, Jingyu Wang, and Xiaolu Lucia Li*, “Detuned design methodology of anti-misalignment capacitive power transfer converter,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 13, no. 4, pp. 5435--5446, Aug. 2025.
+    pdf: "https://doi.org/10.1109/jestpe.2025.3552393"
+  - title: "抗偏移单端驱动无线电能传输系统"
+    category: "Wireless Power Transfer"
+    conference: "电源学报"
+    year_status: "in press"
+    citation: >-
+      <strong>黄智聪</strong>,王京雨,王宇,徐海.抗偏移单端驱动无线电能传输系统[J].电源学报,2025,录用.
+  - title: "A dual-frequency resonant single-ended IPT circuit with enhanced power transfer capability"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Industrial Electronics"
+    year_status: "2025"
+    citation: >-
+      Jingyu Wang, <strong>Zhicong Huang*</strong>, and Xiaolu Li*, “A dual-frequency resonant single-ended IPT circuit with enhanced power transfer capability,” IEEE Transactions on Industrial Electronics, vol. 72, no. 8, pp. 7964--7973, Aug. 2025.
+    pdf: "https://doi.org/10.1109/tie.2025.3532721"
+  - title: "Tuning control against coupler parameter variations due to misalignment in an optimal-efficiency-tracking and constant-power-output IPT system"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2025"
+    citation: >-
+      Bowei Zou, <strong>Zhicong Huang*</strong>, Io-Wa Iam*, and Chi-Seng Lam, “Tuning control against coupler parameter variations due to misalignment in an optimal-efficiency-tracking and constant-power-output IPT system,” IEEE Transactions on Power Electronics, vol. 40, no. 5, pp. 7500-7511, May 2025.
+    pdf: "https://doi.org/10.1109/tpel.2025.3525515"
+  - title: "Review of lightweight oriented offshore wind power transmission schemes"
+    category: "Other Power Electronics"
+    conference: "Chinese Journal of Electrical Engineering"
+    year_status: "2025"
+    citation: >-
+      Yanfeng Wang, Shuxin Luo, Mengze Yu, Lingyun Yang*, Jun Huang, and <strong>Zhicong Huang</strong>, “Review of lightweight oriented offshore wind power transmission schemes,” Chinese Journal of Electrical Engineering, vol. 11, no. 1, pp. 16-39, Mar. 2025.
+    pdf: "https://doi.org/10.23919/cjee.2025.000098"
+  - title: "A single-stage IPT converter with optimal efficiency tracking and constant voltage output against dynamic variations of coupling and load"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Transportation Electrification"
+    year_status: "2025"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Bowei Zou, Zhenwei Huang, Herbert Ho-Ching Iu, and Chi K. Tse, “A single-stage IPT converter with optimal efficiency tracking and constant voltage output against dynamic variations of coupling and load”, IEEE Transactions on Transportation Electrification, vol. 11, no. 1, pp. 1582-1592, Feb. 2025.
+    pdf: "https://doi.org/10.1109/tte.2024.3407717"
+    code: "./assets/files/2025-Huang-single-TTE.pdf"
+  - title: "IGBT junction temperature estimation based on external parameters of multiple drive devices in practical industrial scenario"
+    category: "AI for Power Electronics"
+    conference: "International Journal of Circuit Theory and Applications"
+    year_status: "2025"
+    citation: >-
+      Chenglang Su, Wei Jiang, <strong>Zhicong Huang*</strong>, “IGBT junction temperature estimation based on external parameters of multiple drive devices in practical industrial scenario,” International Journal of Circuit Theory and Applications, vol. 53, no. 9, pp. 5379--5393, Sep. 2025.
+    pdf: "https://doi.org/10.1002/cta.4391"
+  - title: "Multi-dimensional vibration control for offshore floating platform synergizing built-in wave energy converter with decoupled power take-offs"
+    category: "Wave Energy Converters"
+    conference: "Ocean Engineering"
+    year_status: "2025"
+    citation: >-
+      Yongxing Zhang, <strong>Zhicong Huang*</strong>, and Jin Bian, “Multi-dimensional vibration control for offshore floating platform synergizing built-in wave energy converter with decoupled power take-offs,” Ocean Engineering, vol. 322, pp. 120450, Apr. 2025.
+    pdf: "https://doi.org/10.1016/j.oceaneng.2025.120450"
+  - title: "A stacking machine-learning based method for accelerating magnetic coupler design with ferrite cores in inductive power transfer applications"
+    category: "AI for Power Electronics"
+    conference: "International Journal of Circuit Theory and Applications"
+    year_status: "2025"
+    citation: >-
+      Wenhua Ding, Yufei Wang, Tingyu Chen, Zhenghong Lu, Yue You, Jingyu Wang, and <strong>Zhicong Huang*</strong>, “A stacking machine-learning based method for accelerating magnetic coupler design with ferrite cores in inductive power transfer applications,” International Journal of Circuit Theory and Applications, vol. 53, no. 1, pp. 67-80, Jan. 2025.
+    pdf: "https://doi.org/10.1002/cta.4096"
+  - title: "Offshore floating platform synergizing internally-installed self-reacting wave energy converters for optimizing vibration control and energy harvesting"
+    category: "Wave Energy Converters"
+    conference: "Ocean Engineering"
+    year_status: "2024"
+    citation: >-
+      <strong>Zhicong Huang</strong>, Yongxing Zhang, and Jin Bian*, “Offshore floating platform synergizing internally-installed self-reacting wave energy converters for optimizing vibration control and energy harvesting,” Ocean Engineering, vol. 313, pp. 119429, Dec. 2024.
+    pdf: "https://doi.org/10.1016/j.oceaneng.2024.119429"
+  - title: "Neural ODE model of power electronic converters with accelerated computation and high fidelity"
+    category: "AI for Power Electronics"
+    conference: "IEEE Transactions on Circuits and Systems I: Regular Papers"
+    year_status: "2024"
+    citation: >-
+      Hanchen Ge, Yaofeng Liang, Jinpeng Lei, Canjun Yuan and <strong>Zhicong Huang*</strong>, “Neural ODE model of power electronic converters with accelerated computation and high fidelity,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 12, pp. 6363-6374, Dec. 2024.
+    pdf: "https://doi.org/10.1109/tcsi.2024.3460803"
+  - title: "Alternately-arranged segmented transmitter pads with magnetic field complementation for suppressing power fluctuation in dynamic wireless power transfer"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2024"
+    citation: >-
+      Hai Xu and <strong>Zhicong Huang*</strong>, “Alternately-arranged segmented transmitter pads with magnetic field complementation for suppressing power fluctuation in dynamic wireless power transfer,” IEEE Transactions on Power Electronics, vol. 39, no. 10, pp. 14091-14102, Oct. 2024.
+    pdf: "https://doi.org/10.1109/tpel.2024.3432815"
+  - title: "Configuration and control design of inductive power transfer systems with back-end power factor correction"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+    year_status: "2024"
+    citation: >-
+      Chongzhe Yuan, Bowei Zou, <strong>Zhicong Huang*</strong>, Io-Wa Iam*, and Chi-Seng Lam, “Configuration and control design of inductive power transfer systems with back-end power factor correction,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 5, pp. 5352-5363, Oct. 2024.
+    pdf: "https://doi.org/10.1109/jestpe.2024.3425493"
+  - title: "Misalignment-tolerant IPT coupler with enhanced magnetic flux variation suppression and reduced copper usage"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2024"
+    citation: >-
+      Hai Xu, <strong>Zhicong Huang*</strong>, Xiaolu Lucia Li*, and Chi K. Tse, “Misalignment-tolerant IPT coupler with enhanced magnetic flux variation suppression and reduced copper usage,” IEEE Transactions on Power Electronics, vol. 39, no. 8, pp. 10506-10517, Aug. 2024.
+    pdf: "https://doi.org/10.1109/tpel.2024.3384754"
+  - title: "Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2024"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse, “Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles,” IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7766-7777, Jun. 2024.
+    pdf: "https://doi.org/10.1109/tpel.2024.3382112"
+  - title: "Primary-frequency-tuning and secondary-impedance-matching IPT converter with programmable constant power output and optimal efficiency tracking against variation of coupling coefficient"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2024"
+    citation: >-
+      Bowei Zou and <strong>Zhicong Huang*</strong>, “Primary-frequency-tuning and secondary-impedance-matching IPT converter with programmable constant power output and optimal efficiency tracking against variation of coupling coefficient,” IEEE Transactions on Power Electronics, vol. 39, no. 4, pp. 4895-4909, Apr. 2024.
+    pdf: "https://doi.org/10.1109/tpel.2024.3353771"
+  - title: "A single-switch WPT circuit with inherent CCO-CVO for battery charging"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Transportation Electrification"
+    year_status: "2024"
+    citation: >-
+      Jingyu Wang and <strong>Zhicong Huang*</strong>, “A single-switch WPT circuit with inherent CCO-CVO for battery charging”, IEEE Transactions on Transportation Electrification, vol. 10, no. 1, pp. 1957-1968, Mar. 2024.
+    pdf: "https://doi.org/10.1109/tte.2023.3271364"
+  - title: "Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+    year_status: "2023"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Tian Qin, and Herbert Ho-Ching Iu, “Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 5, pp. 5500-5508, Oct. 2023.
+    pdf: "https://doi.org/10.1109/jestpe.2023.3293021"
+  - title: "Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm"
+    category: "AI for Power Electronics"
+    conference: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems"
+    year_status: "2023"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Canjun Yuan, Hanchen Ge, and Ting Hou, “Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 3, pp. 806-816, Sep. 2023. (Spotlight Paper)
+    pdf: "https://doi.org/10.1109/jetcas.2023.3290161"
+  - title: "Automatic containment of field exposure for roadway wireless electric vehicle charger"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Transportation Electrification"
+    year_status: "2023"
+    citation: >-
+      Yang Yang, Jingyu Wang, and <strong>Zhicong Huang*</strong>, Io-Wa Iam, and Chi-Seng Lam, “Automatic containment of field exposure for roadway wireless electric vehicle charger,” IEEE Transactions on Transportation Electrification, vol. 9, no. 3, pp. 4121-4131, Sep. 2023.
+    pdf: "https://doi.org/10.1109/tte.2023.3236684"
+  - title: "Investigation of current balance methodologies for inductive power transfer coupler with multiple branches"
+    category: "Wireless Power Transfer"
+    conference: "IET Power Electronics"
+    year_status: "2024"
+    citation: >-
+      Mengna Luo and <strong>Zhicong Huang*</strong>, “Investigation of current balance methodologies for inductive power transfer coupler with multiple branches,” IET Power Electronics, vol. 17, no. 10, pp. 1189-1199, Aug. 2024.
+    pdf: "https://doi.org/10.1049/pel2.12495"
+  - title: "A control-free series resonant converter for battery charging with automatic CC-to-CV profile and whole-process high efficiency"
+    category: "Other Power Electronics"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2023"
+    citation: >-
+      Zhijian Fang, Haojiang Yue, Zihao Wei, Zihan Zhang, and <strong>Zhicong Huang*</strong>, “A control-free series resonant converter for battery charging with automatic CC-to-CV profile and whole-process high efficiency,” IEEE Transactions on Power Electronics, vol. 38, no. 7, pp. 8666-8675, Jul. 2023.
+    pdf: "https://doi.org/10.1109/tpel.2023.3269044"
+  - title: "Modeling methodology based on fast and refined neural networks for non-isolated DC-DC converters with configurable parameter settings"
+    category: "AI for Power Electronics"
+    conference: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems"
+    year_status: "2023"
+    citation: >-
+      Hanchen Ge, Zhihong Huang, and <strong>Zhicong Huang*</strong>, “Modeling methodology based on fast and refined neural networks for non-isolated DC-DC converters with configurable parameter settings,” IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 2, pp. 617-628, Jun. 2023.
+    pdf: "https://doi.org/10.1109/jetcas.2023.3251692"
+  - title: "Conceptual design and analysis for a novel parallel configuration-type wave energy converter"
+    category: "Wave Energy Converters"
+    conference: "Renewable Energy"
+    year_status: "2023"
+    citation: >-
+      Yongxing Zhang, <strong>Zhicong Huang*</strong>, Bowei Zou, and Jing Bian, “Conceptual design and analysis for a novel parallel configuration-type wave energy converter,” Renewable Energy, vol. 208, pp. 627-644, May 2023.
+    pdf: "https://doi.org/10.1016/j.renene.2023.03.086"
+  - title: "Single-immittance-network based IPT systems for driving multi-string LEDs with current balance"
+    category: "Wireless Power Transfer"
+    conference: "International Journal of Circuit Theory and Applications"
+    year_status: "2023"
+    citation: >-
+      Zhenwei Huang and <strong>Zhicong Huang*</strong>, “Single-immittance-network based IPT systems for driving multi-string LEDs with current balance,” International Journal of Circuit Theory and Applications, vol. 51, no. 5, pp. 2406-2421, May 2023.
+    pdf: "https://doi.org/10.1002/cta.3536"
+  - title: "Non-backflow-power and reduced-switching-loss modulation for bidirectional series resonant converter with wide gain range"
+    category: "Other Power Electronics"
+    conference: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+    year_status: "2023"
+    citation: >-
+      Zhijian Fang, Haojiang Yue, Fei Xie, and <strong>Zhicong Huang*</strong>, “Non-backflow-power and reduced-switching-loss modulation for bidirectional series resonant converter with wide gain range,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 1, pp. 490-505, Feb. 2023.
+    pdf: "https://doi.org/10.1109/jestpe.2022.3207002"
+  - title: "A flexible rooftop photovoltaic-inductive wireless power transfer system for low-voltage DC grid"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Access"
+    year_status: "2023"
+    citation: >-
+      Io-Wa Iam, Zhaoyi Ding, <strong>Zhicong Huang</strong>, Chi-Seng Lam*, Rui P. Martins, and Pui-In Mak, “A flexible rooftop photovoltaic-inductive wireless power transfer system for low-voltage DC grid”, IEEE Access, vol. 11, pp. 51117-51132, 2023.
+    pdf: "https://doi.org/10.1109/access.2023.3279107"
+  - title: "Intermittent sinusoidal modulation of bidirectional series resonant converter with zero current switching, linear current controllability and load-independent efficiency"
+    category: "Other Power Electronics"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2022"
+    citation: >-
+      Zhijian Fang, Hanlin Dong, Haotian Sun, Fei Xie, and <strong>Zhicong Huang*</strong>, “Intermittent sinusoidal modulation of bidirectional series resonant converter with zero current switching, linear current controllability and load-independent efficiency,” IEEE Transactions on Power Electronics, vol. 37, no. 10, pp. 11725-11738, Oct. 2022.
+    pdf: "https://doi.org/10.1109/tpel.2022.3174390"
+  - title: "Investigation of multiple resonances and stability enhancement in multi-source DC distribution power systems"
+    category: "Other Power Electronics"
+    conference: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems"
+    year_status: "2022"
+    citation: >-
+      Yaoyao Zhang, Xiaohui Qu, Gan Wang, Wu Chen*, and <strong>Zhicong Huang</strong>, “Investigation of multiple resonances and stability enhancement in multi-source DC distribution power systems,” IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 12, no. 1, pp. 90-97, Mar. 2022. (Spotlight Paper)
+    pdf: "https://doi.org/10.1109/jetcas.2022.3146875"
+  - title: "A novel IPT converter with current-controlled semi-active rectifier for efficiency enhancement throughout supercapacitor charging process"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+    year_status: "2022"
+    citation: >-
+      <strong>Zhicong Huang</strong>, Dule Wang, and Xiaohui Qu*, “A novel IPT converter with current-controlled semi-active rectifier for efficiency enhancement throughout supercapacitor charging process,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 10, no. 2, pp. 2201-2209, Apr. 2022.
+    pdf: "https://doi.org/10.1109/jestpe.2021.3107141"
+  - title: "Constant-frequency and non-communication based inductive power transfer converter for battery charging"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+    year_status: "2022"
+    citation: >-
+      Io-Wa Iam, Iok-U Hoi, <strong>Zhicong Huang*</strong>, Cheng Gong, Chi-Seng Lam*, Pui-In Mak, and Rui P. Martins, “Constant-frequency and non-communication based inductive power transfer converter for battery charging,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 10, no. 2, pp. 2147-2162, Apr. 2022.
+    pdf: "https://doi.org/10.1109/jestpe.2020.3004259"
+  - title: "Analysis and design of three-coil coupler for inductive power transfer system with automatic seamless CC-to-CV charging capability"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Access"
+    year_status: "2022"
+    citation: >-
+      Hai Xu, Zhenwei Huang, Yang Yang, <strong>Zhicong Huang*</strong>, Io-Wa Iam, and Chi-Seng Lam*, “Analysis and design of three-coil coupler for inductive power transfer system with automatic seamless CC-to-CV charging capability,” IEEE Access, vol. 10, pp. 10139-10148, 2022.
+    pdf: "https://doi.org/10.1109/access.2022.3145685"
+  - title: "基于开关可控电容和半控整流桥的功率源型感应式耦合电能传输系统"
+    category: "Wireless Power Transfer"
+    conference: "电工技术学报"
+    year_status: "2022"
+    citation: >-
+      <strong>黄智聪</strong>,邹博维,黄振威.基于开关可控电容和半控整流桥的功率源型感应式耦合电能传输系统[J].电工技术学报,2022,37(24):6272-6283.
+  - title: "A novel clamp coil assisted IPT battery charger with inherent CC-to-CV transition capability"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2021"
+    citation: >-
+      <strong>Zhicong Huang</strong>, Guoyu Wang, Jidong Yu, and Xiaohui Qu*, “A novel clamp coil assisted IPT battery charger with inherent CC-to-CV transition capability,” IEEE Transactions on Power Electronics, vol. 36, no. 8, pp. 8607-8611, Aug. 2021.
+    pdf: "https://doi.org/10.1109/tpel.2021.3054768"
+  - title: "Onboard energy storage system based on interleaved high-conversion-ratio quasi-resonant converter with small characteristic impedance"
+    category: "Other Power Electronics"
+    conference: ""
+    year_status: "2021"
+    citation: >-
+      Zhijian Fang, Zhiguo Wei, <strong>Zhicong Huang*</strong>, and Fei Liu, “Onboard energy storage system based on interleaved high-conversion-ratio quasi-resonant converter with small characteristic impedance,” IEEE Transactions on Vehicular Technology, vol. 70, no. 5, pp. 4238-4251, May 2021.
+    pdf: "https://doi.org/10.1109/tvt.2021.3071525"
+  - title: "Cost-effective compensation design for output customization and efficiency optimization in series/series-parallel inductive power transfer converter"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Industrial Electronics"
+    year_status: "2020"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Zhijian Fang, Chi-Seng Lam, Pui-In Mak, and Rui P. Martins, “Cost-effective compensation design for output customization and efficiency optimization in series/series-parallel inductive power transfer converter,” IEEE Transactions on Industrial Electronics, vol. 67, no. 12, pp. 10356-10365, Dec. 2020.
+    pdf: "https://doi.org/10.1109/tie.2019.2959491"
+  - title: "A single-stage inductive-power-transfer converter for constant-power and maximum-efficiency battery charging"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2020"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Chi-Seng Lam, Pui-In Mak, Rui P. Martins, Siu-Chung Wong, and Chi K. Tse, “A single-stage inductive-power-transfer converter for constant-power and maximum-efficiency battery charging,” IEEE Transactions on Power Electronics, vol. 35, no. 9, pp. 8973-8984, Sep. 2020.
+    pdf: "https://doi.org/10.1109/tpel.2020.2969685"
+  - title: "Hybrid mode-hopping modulation for LLC resonant converter achieving high efficiency and linear behavior"
+    category: "Other Power Electronics"
+    conference: "IET Power Electronics"
+    year_status: "2020"
+    citation: >-
+      Zhijian Fang, <strong>Zhicong Huang*</strong>, Hang Jing, and Fei Liu, “Hybrid mode-hopping modulation for LLC resonant converter achieving high efficiency and linear behavior,” IET Power Electronics, vol. 13, no. 6, pp. 1153-1162, May 2020.
+    pdf: "https://doi.org/10.1049/iet-pel.2019.1029"
+  - title: "Comparison of basic inductive power transfer systems with linear control achieving optimized efficiency"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2020"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Siu-Chung Wong, and Chi K. Tse, “Comparison of basic inductive power transfer systems with linear control achieving optimized efficiency,” IEEE Transactions on Power Electronics, vol. 35, no. 3, pp. 3276-3286, Mar. 2020.
+    pdf: "https://doi.org/10.1109/tpel.2019.2932100"
+  - title: "An inductive-power-transfer converter with high efficiency throughout battery-charging process"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2019"
+    citation: >-
+      <strong>Zhicong Huang*</strong>, Siu-Chung Wong, and Chi K. Tse, “An inductive-power-transfer converter with high efficiency throughout battery-charging process,” IEEE Transactions on Power Electronics, vol. 34, no. 10, pp. 10245-10255, Oct. 2019.
+    pdf: "https://doi.org/10.1109/tpel.2019.2891754"
+  - title: "Wide design range of constant output current using double-sided LC compensation circuits for inductive power transfer applications"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2019"
+    citation: >-
+      Xiaohui Qu*, Haijun Chu, <strong>Zhicong Huang</strong>, Siu-Chung Wong, Chi K. Tse, Chunting Chris Mi, and Xi Chen, “Wide design range of constant output current using double-sided LC compensation circuits for inductive power transfer applications,” IEEE Transactions on Power Electronics, vol. 34, no. 3, pp. 2364-2374, Mar. 2019.
+    pdf: "https://doi.org/10.1109/tpel.2018.2839769"
+  - title: "Control design for optimizing efficiency in inductive power transfer systems"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2018"
+    citation: >-
+      <strong>Zhicong Huang</strong>, Siu-Chung Wong*, and Chi K. Tse, “Control design for optimizing efficiency in inductive power transfer systems,” IEEE Transactions on Power Electronics, vol. 33, no. 5, pp. 4523-4534, May 2018.
+    pdf: "https://doi.org/10.1109/tpel.2017.2724039"
+  - title: "Design of a single-stage inductive-power-transfer converter for efficient EV battery charging"
+    category: "Wireless Power Transfer"
+    conference: ""
+    year_status: "2017"
+    citation: >-
+      <strong>Zhicong Huang</strong>, Siu-Chung Wong*, and Chi K. Tse, “Design of a single-stage inductive-power-transfer converter for efficient EV battery charging,” IEEE Transactions on Vehicular Technology, vol. 66, no. 7, pp. 5808-5821, Jul. 2017.
+    pdf: "https://doi.org/10.1109/tvt.2016.2631596"
+  - title: "Revisiting stability criteria for DC power distribution systems based on power balance"
+    category: "Other Power Electronics"
+    conference: "CPSS Transactions on Power Electronics and Applications"
+    year_status: "2017"
+    citation: >-
+      <strong>Zhicong Huang</strong>, Siu-Chung Wong*, and Chi K. Tse, “Revisiting stability criteria for DC power distribution systems based on power balance,” CPSS Transactions on Power Electronics and Applications, vol. 2, no. 1, Mar. 2017.
+    pdf: "https://doi.org/10.24295/cpsstpea.2017.00009"
 
-  # - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
-  #   authors: Yongxing Zhang, Jing Bian, <strong>Zhicong Huang*</strong>
-  #   conference_short: # MICCAI
-  #   conference: Renewable Energy, 2025
-  #   pdf: https://doi.org/10.1016/j.renene.2025.123679
-  #   code: # https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: # https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/Zhang2025Built.jpg
-  #   notes: # Early Accept
-
-  - title: A single-stage IPT converter with optimal efficiency tracking and constant voltage output against dynamic variations of coupling and load
-    authors: <strong>Zhicong Huang*</strong>, Bowei Zou, Zhenwei Huang, Herbert Ho-Ching Iu, and Chi K. Tse
-    conference_short: # MICCAI
-    conference:  IEEE Transactions on Transportation Electrification, 2025
-    pdf: https://doi.org/10.1109/TTE.2024.3407717
-    code: ./assets/files/2025-Huang-single-TTE.pdf
-    bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Huang2025single.gif
-    notes: # Early Accept
-
-
-  - title: Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles
-    authors: <strong>Zhicong Huang*</strong>, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse
-    conference_short: # MICCAI
-    conference:  IEEE Transactions on Power Electronics, 2024
-    pdf: https://doi.org/10.1109/TPEL.2024.3382112
-    code: # ./assets/files/2024-Huang-Synthesis-TPE.pdf
-    bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Huang2024Synthesis.gif
-    notes: # Early Accept
-
-
-  - title: Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation
-    authors: Hai Xu, Jingyu Wang, <strong>Zhicong Huang*</strong>
-    conference_short: # MICCAI
-    conference: IEEE Transactions on Power Electronics, 2025
-    pdf: https://doi.org/10.1109/TPEL.2025.3569698
-    code: ./assets/files/2025-Xu-Large-TPE.pdf
-    bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Xu2025Large.gif
-    notes: # Early Accept
-
-
-  # - title: Built-in wave energy converter inspired adaptive vibration control for offshore floating platform
-  #   authors: Yongxing Zhang, <strong>Zhicong Huang*</strong>, Jing Bian, Junwei Liu, Ning Su
-  #   conference_short: # MICCAI
-  #   conference: Energy Conversion and Management, 2025
-  #   pdf: https://doi.org/10.1016/j.enconman.2025.119850
-  #   code: # https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: # https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/Zhang2025Multi.jpg
-  #   notes: # Early Accept
-
-  - title: Control-free inductive-power-transfer transmitter with misalignment tolerance
-    authors: Hai Xu, <strong>Zhicong Huang*</strong>, Xiaolu Lucia Li, Chi K. Tse 
-    conference_short: # MICCAI
-    conference: IEEE Transactions on Transportation Electrification, 2025
-    pdf: https://doi.org/10.1109/TTE.2025.3560483
-    code: # https://github.com/MrGiovanni/ContinualLearning
-    bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: # ./assets/img/Zhang2025Built.jpg
-    notes: # Early Accept
-
-
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
