@@ -5,8 +5,8 @@
 <div class="alumni-panel">
   <div class="alumni-header">
     <span>Name</span>
-    <span>Graduation</span>
-    <span>Next position</span>
+    <span>Year</span>
+    <span>Next Position</span>
   </div>
   <div class="alumni-row">
     <span>Jingyu Wang</span>
@@ -34,8 +34,8 @@
 <div class="alumni-panel">
   <div class="alumni-header">
     <span>Name</span>
-    <span>Graduation</span>
-    <span>Next position</span>
+    <span>Year</span>
+    <span>Next Position</span>
   </div>
   <div class="alumni-row">
     <span>Jingpeng Lei</span>
