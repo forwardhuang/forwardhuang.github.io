@@ -6,7 +6,6 @@ main:
     citation: >-
       Yaofeng Liang, <strong>Zhicong Huang*</strong>, and Yu Chen*, “Hybrid modeling approach combining analytical and neural ordinary differential equations for accelerated simulation of grid-tied inverter,” IEEE Transactions on Power Electronics, vol. 41, no. 7, pp. 11867-11878, Jul. 2026.
     pdf: "https://doi.org/10.1109/tpel.2026.3659885"
-    code: "https://github.com/forwardhuang/forwardhuang.github.io/releases/download/papers-test/2026-Liang-Hybrid-TPEL.pdf"
   - title: "Transfer learnable physics-informed neural network surrogating grid-tied inverters for renewable power system simulation"
     category: "AI for Power Electronics"
     conference: "IEEE Transactions on Industrial Electronics"
@@ -22,7 +21,6 @@ main:
     citation: >-
       Hanchen Ge, Yaofeng Liang, Jinpeng Lei, Canjun Yuan and <strong>Zhicong Huang*</strong>, “Neural ODE model of power electronic converters with accelerated computation and high fidelity,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 12, pp. 6363-6374, Dec. 2024.
     pdf: "https://doi.org/10.1109/tcsi.2024.3460803"
-    code: "https://github.com/forwardhuang/forwardhuang.github.io/releases/download/papers-test/2024-Ge-Neural-TCASI.pdf"
   - title: "Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm"
     category: "AI for Power Electronics"
     conference: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems"
