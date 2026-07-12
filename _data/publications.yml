@@ -63,6 +63,7 @@ main:
     citation: >-
       Hai Xu and <strong>Zhicong Huang*</strong>, “Alternately-arranged segmented transmitter pads with magnetic field complementation for suppressing power fluctuation in dynamic wireless power transfer,” IEEE Transactions on Power Electronics, vol. 39, no. 10, pp. 14091-14102, Oct. 2024.
     pdf: "https://doi.org/10.1109/tpel.2024.3432815"
+    code: "./assets/files/2024-Xu-Alternately-TPEL.pdf"
   - title: "Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
