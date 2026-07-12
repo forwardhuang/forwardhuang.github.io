@@ -125,6 +125,7 @@ main:
     citation: >-
       Zhijian Fang, Haojiang Yue, Zihao Wei, Zihan Zhang, and <strong>Zhicong Huang*</strong>, “A control-free series resonant converter for battery charging with automatic CC-to-CV profile and whole-process high efficiency,” IEEE Transactions on Power Electronics, vol. 38, no. 7, pp. 8666-8675, Jul. 2023.
     pdf: "https://doi.org/10.1109/tpel.2023.3269044"
+    code: "./assets/files/2023-Fang-Control-TPEL.pdf"
   - title: "Intermittent sinusoidal modulation of bidirectional series resonant converter with zero current switching, linear current controllability and load-independent efficiency"
     category: "Other Power Electronics"
     conference: "IEEE Transactions on Power Electronics"
