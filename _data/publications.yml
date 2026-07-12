@@ -72,6 +72,7 @@ main:
     citation: >-
       <strong>Zhicong Huang*</strong>, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse, “Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles,” IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7766-7777, Jun. 2024.
     pdf: "https://doi.org/10.1109/tpel.2024.3382112"
+    code: "./assets/files/2024-Huang-Synthesis-TPEL.pdf"
   - title: "A novel clamp coil assisted IPT battery charger with inherent CC-to-CV transition capability"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
