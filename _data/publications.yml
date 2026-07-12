@@ -49,6 +49,7 @@ main:
     citation: >-
       Jingyu Wang, <strong>Zhicong Huang*</strong>, and Xiaolu Li*, “A dual-frequency resonant single-ended IPT circuit with enhanced power transfer capability,” IEEE Transactions on Industrial Electronics, vol. 72, no. 8, pp. 7964--7973, Aug. 2025.
     pdf: "https://doi.org/10.1109/tie.2025.3532721"
+    code: "./assets/files/2025-Wang-Dual-TIE.pdf"
   - title: "A single-stage IPT converter with optimal efficiency tracking and constant voltage output against dynamic variations of coupling and load"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Transportation Electrification"
