@@ -8,12 +8,16 @@
     </a>
     <figcaption>Research Group Graduates, 2025</figcaption>
   </figure>
-  <figure class="gallery-item gallery-placeholder">
-    <div>Lab Life</div>
-    <figcaption>To be added</figcaption>
+  <figure class="gallery-item">
+    <a href="./assets/img/gallery-class-2024.jpg" target="_blank" rel="noopener">
+      <img src="./assets/img/gallery-class-2024.jpg" alt="Research group graduation photo, 2024">
+    </a>
+    <figcaption>Research Group Graduates, 2024</figcaption>
   </figure>
-  <figure class="gallery-item gallery-placeholder">
-    <div>Conference</div>
-    <figcaption>To be added</figcaption>
+  <figure class="gallery-item">
+    <a href="./assets/img/gallery-class-2023.png" target="_blank" rel="noopener">
+      <img src="./assets/img/gallery-class-2023.png" alt="Research group graduation photo, 2023">
+    </a>
+    <figcaption>Research Group Graduates, 2023</figcaption>
   </figure>
 </div>
