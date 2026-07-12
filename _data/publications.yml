@@ -6,6 +6,7 @@ main:
     citation: >-
       Yaofeng Liang, <strong>Zhicong Huang*</strong>, and Yu Chen*, “Hybrid modeling approach combining analytical and neural ordinary differential equations for accelerated simulation of grid-tied inverter,” IEEE Transactions on Power Electronics, vol. 41, no. 7, pp. 11867-11878, Jul. 2026.
     pdf: "https://doi.org/10.1109/tpel.2026.3659885"
+    code: "./assets/files/2026-Liang-Hybrid-TPEL.pdf"
   - title: "Transfer learnable physics-informed neural network surrogating grid-tied inverters for renewable power system simulation"
     category: "AI for Power Electronics"
     conference: "IEEE Transactions on Industrial Electronics"
@@ -21,6 +22,7 @@ main:
     citation: >-
       Hanchen Ge, Yaofeng Liang, Jinpeng Lei, Canjun Yuan and <strong>Zhicong Huang*</strong>, “Neural ODE model of power electronic converters with accelerated computation and high fidelity,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 12, pp. 6363-6374, Dec. 2024.
     pdf: "https://doi.org/10.1109/tcsi.2024.3460803"
+    code: "./assets/files/2024-Ge-Neural-TCASI.pdf"
   - title: "Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm"
     category: "AI for Power Electronics"
     conference: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems"
@@ -90,6 +92,7 @@ main:
     citation: >-
       <strong>Zhicong Huang*</strong>, Chi-Seng Lam, Pui-In Mak, Rui P. Martins, Siu-Chung Wong, and Chi K. Tse, “A single-stage inductive-power-transfer converter for constant-power and maximum-efficiency battery charging,” IEEE Transactions on Power Electronics, vol. 35, no. 9, pp. 8973-8984, Sep. 2020.
     pdf: "https://doi.org/10.1109/tpel.2020.2969685"
+    code: "./assets/files/2020-Huang-Single-TPEL.pdf"
   - title: "Comparison of basic inductive power transfer systems with linear control achieving optimized efficiency"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
@@ -121,6 +124,7 @@ main:
     citation: >-
       Zhijian Fang, Chi Zhang, Jinbo Zhao, Han Fu, Chunyu Ye, and <strong>Zhicong Huang*</strong>, “Adaptive main-module based partial power processing for wide-range operation of current-source driven modular MVDC,” IEEE Transactions on Power Electronics, vol. 41, no. 1, pp. 675–688, Jan. 2026.
     pdf: "https://doi.org/10.1109/tpel.2025.3603284"
+    code: "./assets/files/2026-Fang-Adaptive-TPEL.pdf"
   - title: "A control-free series resonant converter for battery charging with automatic CC-to-CV profile and whole-process high efficiency"
     category: "Other Power Electronics"
     conference: "IEEE Transactions on Power Electronics"
@@ -144,6 +148,7 @@ main:
     citation: >-
       Yongxing Zhang, Jing Bian, and <strong>Zhicong Huang*</strong>, “Built-in wave energy converter inspired adaptive vibration control for offshore floating platform,” Renewable Energy, vol. 254, pp. 123679, Dec. 2025.
     pdf: "https://doi.org/10.1016/j.renene.2025.123679"
+    code: "./assets/files/2025-Zhang-Built-RE.pdf"
   - title: "Multi-degree-of-freedom decoupled mechanism for improving energy harvesting performance of wave energy converter"
     category: "Wave Energy Converters"
     conference: "Energy Conversion and Management"
@@ -151,6 +156,7 @@ main:
     citation: >-
       Yongxing Zhang, <strong>Zhicong Huang*</strong>, Jing Bian, Junwei Liu, and Ning Su, “Multi-degree-of-freedom decoupled mechanism for improving energy harvesting performance of wave energy converter,” Energy Conversion and Management, vol. 334, pp. 119850, Jun. 2025.
     pdf: "https://doi.org/10.1016/j.enconman.2025.119850"
+    code: "./assets/files/2025-Zhang-Multi-ECM.pdf"
   - title: "Multi-dimensional vibration control for offshore floating platform synergizing built-in wave energy converter with decoupled power take-offs"
     category: "Wave Energy Converters"
     conference: "Ocean Engineering"
@@ -158,6 +164,7 @@ main:
     citation: >-
       Yongxing Zhang, <strong>Zhicong Huang*</strong>, and Jin Bian, “Multi-dimensional vibration control for offshore floating platform synergizing built-in wave energy converter with decoupled power take-offs,” Ocean Engineering, vol. 322, pp. 120450, Apr. 2025.
     pdf: "https://doi.org/10.1016/j.oceaneng.2025.120450"
+    code: "./assets/files/2025-Zhang-Multi-OE.pdf"
   - title: "Offshore floating platform synergizing internally-installed self-reacting wave energy converters for optimizing vibration control and energy harvesting"
     category: "Wave Energy Converters"
     conference: "Ocean Engineering"
@@ -165,6 +172,7 @@ main:
     citation: >-
       <strong>Zhicong Huang</strong>, Yongxing Zhang, and Jin Bian*, “Offshore floating platform synergizing internally-installed self-reacting wave energy converters for optimizing vibration control and energy harvesting,” Ocean Engineering, vol. 313, pp. 119429, Dec. 2024.
     pdf: "https://doi.org/10.1016/j.oceaneng.2024.119429"
+    code: "./assets/files/2024-Huang-Offshore-OE.pdf"
   - title: "Conceptual design and analysis for a novel parallel configuration-type wave energy converter"
     category: "Wave Energy Converters"
     conference: "Renewable Energy"
@@ -172,3 +180,4 @@ main:
     citation: >-
       Yongxing Zhang, <strong>Zhicong Huang*</strong>, Bowei Zou, and Jing Bian, “Conceptual design and analysis for a novel parallel configuration-type wave energy converter,” Renewable Energy, vol. 208, pp. 627-644, May 2023.
     pdf: "https://doi.org/10.1016/j.renene.2023.03.086"
+    code: "./assets/files/2023-Zhang-Conceptual-RE.pdf"
