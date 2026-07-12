@@ -1,14 +1,14 @@
 items:
-  - image: ""
-    image_alt: Dynamic wireless power transfer based on sparse coil arrays
-    title: Dynamic Wireless Power Transfer Based on Sparse Coil Arrays
-    summary: Combines analytical and neural ordinary differential equation models to accelerate inverter simulation while preserving the underlying physical structure.
+  - image: ./assets/img/highlight-dynamic-wpt.png
+    image_alt: Dynamic wireless power transfer charging lane with segmented transmitter coils
+    title: Dynamic WPT Based on Sparse Coil Arrays
+    summary: Develops rectangular solenoidal pads and an alternately arranged segmented transmitter track with magnetic-field complementation, improving misalignment tolerance while suppressing output-power fluctuation and enabling large coil spacing in dynamic wireless power transfer.
     slides: ./assets/files/20241127-YPCASForum-Anti-Misalignment-Magnetic-Coupler.pdf
     video: ""
 
-  - image: ./assets/img/Huang2025single.gif
-    image_alt: Power electronics modeling based on neural ODE
+  - image: ./assets/img/highlight-neural-ode-modeling.png
+    image_alt: Neural ODE modeling structure for a grid-tied power electronic converter
     title: Power Electronics Modeling Based on Neural ODE
-    summary: Uses a single-switch driver with unipolar-bipolar composite coils to improve power-transfer performance under coil misalignment.
+    summary: Uses neural ordinary differential equations to model the fast inner-loop, switching, and filter dynamics of power electronic converters, enabling accurate coarse-step simulation while substantially reducing computational time.
     slides: ""
     video: ""
