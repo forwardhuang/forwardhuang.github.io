@@ -90,15 +90,15 @@
 
 .highlight-summary {
   display: -webkit-box;
-  min-height: 4.5em;
-  max-height: 4.5em;
+  min-height: 6em;
+  max-height: 6em;
   margin: 8px 0 0;
   overflow: hidden;
   color: #444;
   font-size: 0.92rem;
   line-height: 1.5;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 4;
 }
 
 .highlight-actions {
@@ -374,20 +374,48 @@
     gap: 4px;
   }
 
-  .alumni-header,
+  .alumni-header {
+    display: none;
+  }
+
   .alumni-row {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 4px 12px;
+    padding: 12px;
   }
 
-  .alumni-header span,
+  .alumni-row + .alumni-row {
+    border-top: 1px solid #e4eaf1;
+  }
+
   .alumni-row span {
+    padding: 0;
     border-right: 0;
-    border-bottom: 1px solid #e4eaf1;
   }
 
-  .alumni-header span:last-child,
+  .alumni-row span:first-child {
+    min-width: 0;
+    color: #2f4f7f;
+    font-weight: 700;
+  }
+
+  .alumni-row span:nth-child(2) {
+    color: #687386;
+    font-size: 0.85rem;
+    text-align: right;
+  }
+
   .alumni-row span:last-child {
-    border-bottom: 0;
+    grid-column: 1 / -1;
+    color: #444;
+    line-height: 1.4;
+    overflow-wrap: anywhere;
+  }
+
+  .alumni-row span:last-child::before {
+    content: "Next Position: ";
+    color: #687386;
+    font-weight: 600;
   }
 
   .gallery-grid {
