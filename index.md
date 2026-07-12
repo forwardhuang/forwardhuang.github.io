@@ -12,7 +12,7 @@ I am an Associate Professor at South China University of Technology, Guangzhou, 
 - Artificial Intelligence for Power Electronics
 - Wave Energy Converters
 
-I currently serve as an Associate Editor for *IEEE Transactions on Consumer Electronics*, *IEEE Journal of Emerging and Selected Topics in Industrial Electronics* and *IEEE Open Journal of Power Electronics*. I am also an active reviewer for leading IEEE journals and have received seven reviewer awards from IEEE journals.
+I currently serve as an Associate Editor for *IEEE Transactions on Consumer Electronics*, *IEEE Journal of Emerging and Selected Topics in Industrial Electronics* and *IEEE Open Journal of Power Electronics*. I am also an active reviewer for leading IEEE journals and have received seven reviewer awards.
 
 ## News
 - **[Nov. 2025]** Our project entitle "LLM Based Automatic PCB Layout" won second prize award in CPSS DComPE2025.
