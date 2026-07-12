@@ -102,6 +102,7 @@ main:
     citation: >-
       <strong>Zhicong Huang*</strong>, Siu-Chung Wong, and Chi K. Tse, “An inductive-power-transfer converter with high efficiency throughout battery-charging process,” IEEE Transactions on Power Electronics, vol. 34, no. 10, pp. 10245-10255, Oct. 2019.
     pdf: "https://doi.org/10.1109/tpel.2019.2891754"
+    code: "./assets/files/2019-Huang-Inductive-TPEL.pdf"
   - title: "Control design for optimizing efficiency in inductive power transfer systems"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
