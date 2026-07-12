@@ -93,6 +93,7 @@ main:
     citation: >-
       <strong>Zhicong Huang*</strong>, Siu-Chung Wong, and Chi K. Tse, “Comparison of basic inductive power transfer systems with linear control achieving optimized efficiency,” IEEE Transactions on Power Electronics, vol. 35, no. 3, pp. 3276-3286, Mar. 2020.
     pdf: "https://doi.org/10.1109/tpel.2019.2932100"
+    code: "./assets/files/2020-Huang-Comparison-TPEL.pdf"
   - title: "An inductive-power-transfer converter with high efficiency throughout battery-charging process"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
