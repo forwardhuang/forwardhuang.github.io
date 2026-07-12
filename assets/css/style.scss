@@ -73,12 +73,6 @@
   text-align: center;
 }
 
-.highlight-image-placeholder span {
-  font-size: 0.9rem;
-  font-weight: 700;
-  line-height: 1.35;
-}
-
 .highlight-content {
   display: flex;
   min-width: 0;
@@ -86,15 +80,8 @@
   flex-direction: column;
 }
 
-.highlight-category {
-  color: #2f4f7f;
-  font-size: 0.78rem;
-  font-weight: 700;
-  line-height: 1.3;
-}
-
 .highlight-title {
-  margin: 5px 0 0;
+  margin: 0;
   color: #222;
   font-size: 1.04rem;
   font-weight: 700;
@@ -106,24 +93,6 @@
   color: #444;
   font-size: 0.92rem;
   line-height: 1.5;
-}
-
-.highlight-results {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 11px;
-}
-
-.highlight-results span {
-  padding: 3px 7px;
-  border: 1px solid #dbe4ed;
-  border-radius: 3px;
-  background: #f7f9fc;
-  color: #40566f;
-  font-size: 0.74rem;
-  font-weight: 600;
-  line-height: 1.25;
 }
 
 .highlight-actions {
@@ -312,7 +281,7 @@
 .alumni-header,
 .alumni-row {
   display: grid;
-  grid-template-columns: 0.85fr 0.45fr 3.7fr;
+  grid-template-columns: 1.1fr 0.45fr 3.45fr;
   gap: 0;
 }
 

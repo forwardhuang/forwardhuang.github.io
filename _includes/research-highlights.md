@@ -10,16 +10,12 @@
           {% if highlight.image != "" %}
           <img src="{{ highlight.image }}" alt="{{ highlight.image_alt }}">
           {% else %}
-          <div class="highlight-image-placeholder" aria-hidden="true"><span>{{ highlight.category }}</span></div>
+          <div class="highlight-image-placeholder" aria-hidden="true"></div>
           {% endif %}
         </div>
         <div class="highlight-content">
-          <div class="highlight-category">{{ highlight.category }}</div>
           <h3 class="highlight-title">{{ highlight.title }}</h3>
           <p class="highlight-summary">{{ highlight.summary }}</p>
-          <div class="highlight-results" aria-label="Key results">
-            {% for result in highlight.results %}<span>{{ result }}</span>{% endfor %}
-          </div>
           <div class="highlight-actions">
             {% if highlight.slides != "" %}<a href="{{ highlight.slides }}" target="_blank" rel="noopener">Slides</a>{% else %}<span aria-disabled="true">Slides</span>{% endif %}
             {% if highlight.video != "" %}<a href="{{ highlight.video }}" target="_blank" rel="noopener">Video</a>{% else %}<span aria-disabled="true">Video</span>{% endif %}

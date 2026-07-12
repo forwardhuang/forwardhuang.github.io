@@ -1,44 +1,14 @@
 items:
-  - category: AI for Power Electronics
-    image: ""
-    image_alt: Hybrid analytical and neural ODE modeling
-    title: Physics-Informed Hybrid Modeling for Grid-Tied Inverters
+  - image: ""
+    image_alt: Dynamic wireless power transfer based on sparse coil arrays
+    title: Dynamic Wireless Power Transfer Based on Sparse Coil Arrays
     summary: Combines analytical and neural ordinary differential equation models to accelerate inverter simulation while preserving the underlying physical structure.
-    results:
-      - Hybrid analytical-neural ODE
-      - Accelerated simulation
     slides: ""
     video: ""
 
-  - category: Wireless Power Transfer
-    image: ./assets/img/Huang2025single.gif
-    image_alt: Wireless power transfer converter and control system
-    title: Misalignment-Tolerant Single-Switch IPT
+  - image: ./assets/img/Huang2025single.gif
+    image_alt: Power electronics modeling based on neural ODE
+    title: Power Electronics Modeling Based on Neural ODE
     summary: Uses a single-switch driver with unipolar-bipolar composite coils to improve power-transfer performance under coil misalignment.
-    results:
-      - Single-switch driver
-      - Misalignment tolerance
-    slides: ""
-    video: ""
-
-  - category: Other Power Electronics
-    image: ""
-    image_alt: Modular MVDC power conversion system
-    title: Wide-Range Partial-Power Processing for MVDC
-    summary: Introduces adaptive main-module partial-power processing for wide-range operation of current-source-driven modular MVDC systems.
-    results:
-      - Partial-power processing
-      - Wide-range operation
-    slides: ""
-    video: ""
-
-  - category: Wave Energy Converters
-    image: ./assets/img/Zhang2025Built.jpg
-    image_alt: Built-in wave energy converter for an offshore floating platform
-    title: Integrated Wave Energy Conversion and Platform Stabilization
-    summary: Integrates a built-in wave energy converter with adaptive vibration control to combine energy harvesting and floating-platform stabilization.
-    results:
-      - Energy harvesting
-      - Adaptive vibration control
     slides: ""
     video: ""
