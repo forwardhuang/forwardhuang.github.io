@@ -6,6 +6,7 @@ main:
     citation: >-
       Yaofeng Liang, <strong>Zhicong Huang*</strong>, and Yu Chen*, “Hybrid modeling approach combining analytical and neural ordinary differential equations for accelerated simulation of grid-tied inverter,” IEEE Transactions on Power Electronics, vol. 41, no. 7, pp. 11867-11878, Jul. 2026.
     pdf: "https://doi.org/10.1109/tpel.2026.3659885"
+    code: "https://github.com/forwardhuang/forwardhuang.github.io/releases/download/papers-test/2026-Liang-Hybrid-TPEL.pdf"
   - title: "Transfer learnable physics-informed neural network surrogating grid-tied inverters for renewable power system simulation"
     category: "AI for Power Electronics"
     conference: "IEEE Transactions on Industrial Electronics"
