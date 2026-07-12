@@ -113,6 +113,7 @@ main:
     citation: >-
       <strong>Zhicong Huang</strong>, Siu-Chung Wong*, and Chi K. Tse, “Control design for optimizing efficiency in inductive power transfer systems,” IEEE Transactions on Power Electronics, vol. 33, no. 5, pp. 4523-4534, May 2018.
     pdf: "https://doi.org/10.1109/tpel.2017.2724039"
+    code: "./assets/files/2018-Huang-Control-TPEL.pdf"
   - title: "Adaptive main-module based partial power processing for wide-range operation of current-source driven modular MVDC"
     category: "Other Power Electronics"
     conference: "IEEE Transactions on Power Electronics"
