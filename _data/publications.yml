@@ -55,7 +55,7 @@ main:
     citation: >-
       <strong>Zhicong Huang*</strong>, Bowei Zou, Zhenwei Huang, Herbert Ho-Ching Iu, and Chi K. Tse, “A single-stage IPT converter with optimal efficiency tracking and constant voltage output against dynamic variations of coupling and load”, IEEE Transactions on Transportation Electrification, vol. 11, no. 1, pp. 1582-1592, Feb. 2025.
     pdf: "https://doi.org/10.1109/tte.2024.3407717"
-    code: "./assets/files/2025-Huang-single-TTE.pdf"
+    code: "./assets/files/2025-Huang-Single-TTE.pdf"
   - title: "Alternately-arranged segmented transmitter pads with magnetic field complementation for suppressing power fluctuation in dynamic wireless power transfer"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
