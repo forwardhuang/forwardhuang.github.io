@@ -136,6 +136,7 @@ main:
     citation: >-
       Zhijian Fang, Hanlin Dong, Haotian Sun, Fei Xie, and <strong>Zhicong Huang*</strong>, “Intermittent sinusoidal modulation of bidirectional series resonant converter with zero current switching, linear current controllability and load-independent efficiency,” IEEE Transactions on Power Electronics, vol. 37, no. 10, pp. 11725-11738, Oct. 2022.
     pdf: "https://doi.org/10.1109/tpel.2022.3174390"
+    code: "./assets/files/2022-Fang-Intermittent-TPEL.pdf"
   - title: "Built-in wave energy converter inspired adaptive vibration control for offshore floating platform"
     category: "Wave Energy Converters"
     conference: "Renewable Energy"
