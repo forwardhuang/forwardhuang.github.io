@@ -1,6 +1,11 @@
 <br>
 <h2 id="publications" class="section-title">Selected Papers</h2>
 
+<p class="publication-note">
+  A full list of papers can be found on
+  <a href="https://scholar.google.com/citations?user=8Q6n2YoAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.
+</p>
+
 {% assign publication_categories = "AI for Power Electronics|Wireless Power Transfer|Other Power Electronics|Wave Energy Converters" | split: "|" %}
 
 <div class="publication-groups">
