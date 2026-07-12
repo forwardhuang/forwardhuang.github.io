@@ -13,6 +13,7 @@ main:
     citation: >-
       Canjun Yuan, Changyue Zou, and <strong>Zhicong Huang*</strong>, “Transfer learnable physics-informed neural network surrogating grid-tied inverters for renewable power system simulation,” IEEE Transactions on Industrial Electronics, vol. 73, no. 2, pp. 2487–2498, Feb. 2026.
     pdf: "https://doi.org/10.1109/tie.2025.3613652"
+    code: "./assets/files/2026-Yuan-Transfer-TIE.pdf"
   - title: "Neural ODE model of power electronic converters with accelerated computation and high fidelity"
     category: "AI for Power Electronics"
     conference: "IEEE Transactions on Circuits and Systems I: Regular Papers"
