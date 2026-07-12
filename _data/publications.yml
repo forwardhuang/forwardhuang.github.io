@@ -78,6 +78,7 @@ main:
     citation: >-
       <strong>Zhicong Huang</strong>, Guoyu Wang, Jidong Yu, and Xiaohui Qu*, “A novel clamp coil assisted IPT battery charger with inherent CC-to-CV transition capability,” IEEE Transactions on Power Electronics, vol. 36, no. 8, pp. 8607-8611, Aug. 2021.
     pdf: "https://doi.org/10.1109/tpel.2021.3054768"
+    code: "./assets/files/2021-Huang-Novel-TPEL.pdf"
   - title: "A single-stage inductive-power-transfer converter for constant-power and maximum-efficiency battery charging"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
