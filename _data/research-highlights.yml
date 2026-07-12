@@ -3,7 +3,7 @@ items:
     image_alt: Dynamic wireless power transfer based on sparse coil arrays
     title: Dynamic Wireless Power Transfer Based on Sparse Coil Arrays
     summary: Combines analytical and neural ordinary differential equation models to accelerate inverter simulation while preserving the underlying physical structure.
-    slides: ""
+    slides: ./assets/files/20241127-YPCASForum-Anti-Misalignment-Magnetic-Coupler.pdf
     video: ""
 
   - image: ./assets/img/Huang2025single.gif
