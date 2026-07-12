@@ -1,4 +1,4 @@
-<br>
+<section class="alumni-section">
 <h2 id="group-alumni" class="section-title alumni-section-title">Group Alumni</h2>
 
 <h3 class="alumni-subtitle">PhD Graduates</h3>
@@ -88,3 +88,4 @@
     <span>Huawei Technologies Co., Ltd.</span>
   </div>
 </div>
+</section>
