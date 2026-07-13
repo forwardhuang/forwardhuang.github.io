@@ -12,3 +12,10 @@ items:
     summary: Uses neural ordinary differential equations to model the fast inner-loop, switching, and filter dynamics of power electronic converters, enabling accurate coarse-step simulation while substantially reducing computational time.
     slides: ""
     video: ""
+
+  - image: ./assets/img/highlight-wec-vibration-energy.png
+    image_alt: Self-reacting wave energy converters integrated with a semi-submersible floating platform for vibration control and energy harvesting
+    title: WECs for Simultaneous Vibration Control and Energy Harvesting
+    summary: Progresses from parallel multi-DOF concepts to internally installed self-reacting and decoupled PTO structures, using dual-objective optimization and adaptive electromagnetic damping to increase energy capture while sustaining multi-dimensional platform vibration control across irregular and changing wave conditions.
+    slides: ""
+    video: ""
