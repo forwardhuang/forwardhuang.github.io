@@ -36,7 +36,6 @@ An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[
 |   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
 |   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
 ├── assets                                    #  some files
-├── html_source_file                          #  compiled HTML files
 ├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
 ├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
 ├── Gemfile                                   #  a RubyGems related file
@@ -97,10 +96,6 @@ bundle exec jekyll server
 ```
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
-
-### Using the HTML version
-
-The compiled HTML files are available in the `html_source_file` folder. If you don't like Jekyll, you may directly edit and use the HTML version.
 
 ## Customizing
 
