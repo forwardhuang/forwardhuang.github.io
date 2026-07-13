@@ -8,7 +8,7 @@
       <article class="highlight-card">
         <div class="highlight-visual">
           {% if highlight.image != "" %}
-          <img src="{{ highlight.image }}" alt="{{ highlight.image_alt }}">
+          <img src="{{ highlight.image }}" alt="{{ highlight.image_alt }}" loading="lazy" decoding="async">
           {% else %}
           <div class="highlight-image-placeholder" aria-hidden="true"></div>
           {% endif %}
