@@ -32,5 +32,3 @@ I currently serve as an Associate Editor for *IEEE Transactions on Consumer Elec
 {% include_relative _includes/alumni.md %}
 
 {% include_relative _includes/gallery.md %}
-
-<!-- {% include_relative _includes/services.md %} -->
