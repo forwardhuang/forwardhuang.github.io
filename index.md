@@ -12,11 +12,11 @@ I am an Associate Professor at South China University of Technology, Guangzhou, 
 - Artificial Intelligence for Power Electronics
 - Wave Energy Converters
 
-I currently serve as an Associate Editor for *IEEE Transactions on Consumer Electronics*, *IEEE Journal of Emerging and Selected Topics in Industrial Electronics* and *IEEE Open Journal of Power Electronics*. I am also an active reviewer for leading IEEE journals and have received seven reviewer awards.
+I am a Senior Member of IEEE and currently serve as an Associate Editor for *IEEE Transactions on Consumer Electronics*, *IEEE Journal of Emerging and Selected Topics in Industrial Electronics* and *IEEE Open Journal of Power Electronics*. I am also an active reviewer for leading IEEE journals and have received seven reviewer awards.
 
 <h3 id="openings" class="subsection-title openings-title">Openings</h3>
 
-<p class="openings-note">Prospective Postdoc, PhD and Master's students interested in power electronics and its interdisciplinary applications are welcome to contact me. Please email your CV to zhiconghuang (at) scut.edu.cn.</p>
+<p class="openings-note">Prospective Postdoc, PhD and Master's students interested in power electronics and its interdisciplinary applications are welcome to contact me: zhiconghuang (at) scut.edu.cn.</p>
 
 <h2 id="news" class="section-title news-section-title">News</h2>
 
