@@ -14,7 +14,8 @@ I am an Associate Professor at South China University of Technology, Guangzhou, 
 
 I currently serve as an Associate Editor for *IEEE Transactions on Consumer Electronics*, *IEEE Journal of Emerging and Selected Topics in Industrial Electronics* and *IEEE Open Journal of Power Electronics*. I am also an active reviewer for leading IEEE journals and have received seven reviewer awards.
 
-## News
+<h2 id="news" class="section-title news-section-title">News</h2>
+
 - **[Nov. 2025]** Our project entitle "LLM Based Automatic PCB Layout" won second prize award in CPSS DComPE2025.
 - **[Nov. 2025]** Received Excellent Paper Award in IEEE PEAS 2025.
 - **[Sep. 2025]** Named in World's Top 2% Scientists list by ELSEVIER and Standford University.
