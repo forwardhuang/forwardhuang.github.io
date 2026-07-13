@@ -16,7 +16,7 @@ I am a Senior Member of IEEE and currently serve as an Associate Editor for *IEE
 
 <h3 id="openings" class="subsection-title openings-title">Openings</h3>
 
-<p class="openings-note">Prospective Postdoc, PhD and Master's students interested in power electronics and its interdisciplinary applications are welcome to contact me: zhiconghuang (at) scut.edu.cn.</p>
+<p class="openings-note openings-emphasis">Prospective Postdoc, PhD and Master's students interested in power electronics and its interdisciplinary applications are welcome to contact me: zhiconghuang (at) scut.edu.cn.</p>
 
 <h2 id="news" class="section-title news-section-title">News</h2>
 
