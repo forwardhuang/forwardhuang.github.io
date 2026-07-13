@@ -16,10 +16,12 @@
         <div class="highlight-content">
           <h3 class="highlight-title">{{ highlight.title }}</h3>
           <p class="highlight-summary">{{ highlight.summary }}</p>
+          {% if highlight.slides != "" or highlight.video != "" %}
           <div class="highlight-actions">
-            {% if highlight.slides != "" %}<a href="{{ highlight.slides }}" target="_blank" rel="noopener">Slides</a>{% else %}<span aria-disabled="true">Slides</span>{% endif %}
-            {% if highlight.video != "" %}<a href="{{ highlight.video }}" target="_blank" rel="noopener">Video</a>{% else %}<span aria-disabled="true">Video</span>{% endif %}
+            {% if highlight.slides != "" %}<a href="{{ highlight.slides }}" target="_blank" rel="noopener">Slides</a>{% endif %}
+            {% if highlight.video != "" %}<a href="{{ highlight.video }}" target="_blank" rel="noopener">Video</a>{% endif %}
           </div>
+          {% endif %}
         </div>
       </article>
     </li>
