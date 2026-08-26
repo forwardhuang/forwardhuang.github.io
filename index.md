@@ -20,6 +20,7 @@ I am a Senior Member of IEEE and currently serve as an Associate Editor for *IEE
 
 <h2 id="news" class="section-title news-section-title">News</h2>
 
+- **[Aug. 2026]** Received Best Poster Presentation Award at the International Zhejiang Power Electronics Conference 2026.
 - **[Jun. 2026]** Selected as one of JESTPE's Star Reviewers for 2025, completing a hat trick.
 - **[Nov. 2025]** Our project entitled "LLM-Based Automatic PCB Layout" won the Second Prize in CPSS DComPE 2025.
 - **[Nov. 2025]** Received an Excellent Paper Award at IEEE PEAS 2025.
