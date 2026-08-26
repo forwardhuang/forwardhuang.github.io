@@ -1,0 +1,9 @@
+# Keep text files stable when the repository moves between Windows and macOS.
+* text=auto eol=lf
+
+# Repository assets must remain byte-for-byte unchanged.
+*.pdf -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.eps -text
