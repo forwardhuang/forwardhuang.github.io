@@ -20,16 +20,17 @@ I am a Senior Member of IEEE and currently serve as an Associate Editor for *IEE
 
 <h2 id="news" class="section-title news-section-title">News</h2>
 
+- <span style="color: red;">Our paper entitled <a href="https://ieeexplore.ieee.org/document/11002618" target="_blank" rel="noopener" style="color: red;">“Large-Spacing Segmented Transmitter Track for Dynamic Wireless Power Transfer With Low Output Fluctuation”</a> received the 2025 <em>IEEE Transactions on Power Electronics</em> (TPEL) Second Place Prize Paper Award.</span>
 - **[Aug. 2026]** Received Best Poster Presentation Award at the International Zhejiang Power Electronics Conference 2026.
 - **[Jun. 2026]** Selected as one of JESTPE's Star Reviewers for 2025, completing a hat trick.
 - **[Nov. 2025]** Our project entitled "LLM-Based Automatic PCB Layout" won the Second Prize in CPSS DComPE 2025.
 - **[Nov. 2025]** Received an Excellent Paper Award at IEEE PEAS 2025.
 - **[Sep. 2025]** Named in the World's Top 2% Scientists list published by Elsevier and Stanford University.
-- **[Aug. 2025]**  <font color=red>Our project entitled "Efficient Constant Magnetic Flux Coupling Mechanism and Key Technologies for Dynamic Wireless Power Transfer Based on Sparse Coil Arrays" has been approved by the National Natural Science Foundation of China.</font>
 
 <details class="earlier-news">
   <summary>Earlier News</summary>
   <ul>
+    <li><strong>[Aug. 2025]</strong> <span style="color: red;">Our project entitled "Efficient Constant Magnetic Flux Coupling Mechanism and Key Technologies for Dynamic Wireless Power Transfer Based on Sparse Coil Arrays" has been approved by the National Natural Science Foundation of China.</span></li>
     <li><strong>[Jul. 2025]</strong> Scheduled to deliver a tutorial on "Advanced Static and Dynamic Wireless Charging: Empowering Modern EVs and AGVs" at IECON2025, Madrid.</li>
     <li><strong>[Jun. 2025]</strong> <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/June_2025/TCE_SS_CFP_Advanced_Wireless_Power_Transfer_Technologies_for_Portable_Electronics-online.pdf" target="_blank" rel="noopener">Special section on "Advanced Wireless Power Transfer Technologies for Portable Electronics"</a> launched in <em>IEEE Transactions on Consumer Electronics</em>.</li>
     <li><strong>[Jun. 2025]</strong> Awarded Second Prize in the Student Design Competition at WPTCE2025, Rome.</li>
