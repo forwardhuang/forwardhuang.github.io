@@ -20,7 +20,7 @@ I am a Senior Member of IEEE and currently serve as an Associate Editor for *IEE
 
 <h2 id="news" class="section-title news-section-title">News</h2>
 
-- <span style="color: red;">Our paper entitled <a href="https://ieeexplore.ieee.org/document/11002618" target="_blank" rel="noopener" style="color: red; text-decoration: underline;">“Large-Spacing Segmented Transmitter Track for Dynamic Wireless Power Transfer With Low Output Fluctuation”</a> received the 2025 <em>IEEE Transactions on Power Electronics</em> (TPEL) Second Place Prize Paper Award.</span>
+- <span style="color: red;"><strong>[Sep. 2026]</strong> Our paper entitled <a href="https://ieeexplore.ieee.org/document/11002618" target="_blank" rel="noopener" style="color: red; text-decoration: underline;">“Large-Spacing Segmented Transmitter Track for Dynamic Wireless Power Transfer With Low Output Fluctuation”</a> received the 2025 <em>IEEE Transactions on Power Electronics</em> (TPEL) Second Place Prize Paper Award.</span>
 - **[Aug. 2026]** Received Best Poster Presentation Award at the International Zhejiang Power Electronics Conference 2026.
 - **[Jun. 2026]** Selected as one of JESTPE's Star Reviewers for 2025, completing a hat trick.
 - **[Nov. 2025]** Our project entitled "LLM-Based Automatic PCB Layout" won the Second Prize in CPSS DComPE 2025.
