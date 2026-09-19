@@ -52,6 +52,14 @@ main:
       <strong>Zhicong Huang</strong>, Jingyu Wang*, Jun Cheng, and Chi-Kwan Lee, “A single-switch IPT driver for unipolar-bipolar composite coils achieving misalignment tolerance,” IEEE Transactions on Power Electronics, vol. 41, no. 2, pp. 1569–1573, Feb. 2026.
     pdf: "https://doi.org/10.1109/tpel.2025.3614264"
     code: "./assets/files/2026-Huang-Single-TPEL.pdf"
+  - title: "Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Power Electronics"
+    year_status: "2025"
+    citation: >-
+      Hai Xu, Jingyu Wang, <strong>Zhicong Huang*</strong>, “Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation,” IEEE Transactions on Power Electronics, vol. 40, no. 9, pp. 14134--14145, Sep. 2025. <strong>(IEEE TPEL Second Place Prize Paper Award)</strong>
+    pdf: "https://doi.org/10.1109/TPEL.2025.3569698"
+    code: "./assets/files/2025-Xu-Large-Spacing-TPEL.pdf"
   - title: "A dual-frequency resonant single-ended IPT circuit with enhanced power transfer capability"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Industrial Electronics"
