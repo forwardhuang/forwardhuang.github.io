@@ -44,6 +44,14 @@ main:
     citation: >-
       Hanchen Ge, Zhihong Huang, and <strong>Zhicong Huang*</strong>, “Modeling methodology based on fast and refined neural networks for non-isolated DC-DC converters with configurable parameter settings,” IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 2, pp. 617-628, Jun. 2023.
     pdf: "https://doi.org/10.1109/jetcas.2023.3251692"
+  - title: "A novel choke-less class-E inverter with multiplexed transmitter coil for inductive power transfer"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Transportation Electrification"
+    year_status: "2026"
+    citation: >-
+      Jingyu Wang, Hai Xu, <strong>Zhicong Huang*</strong>, Chi-Kwan Lee, Io-Wa Iam, and Chi-Seng Lam, “A novel choke-less class-E inverter with multiplexed transmitter coil for inductive power transfer,” IEEE Transactions on Transportation Electrification, in press.
+    pdf: "https://doi.org/10.1109/TTE.2026.3731647"
+    code: "./assets/files/2026-Wang-Class-E-TTE.pdf"
   - title: "A single-switch IPT driver for unipolar-bipolar composite coils achieving misalignment tolerance"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
