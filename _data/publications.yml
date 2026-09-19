@@ -57,7 +57,7 @@ main:
     conference: "IEEE Transactions on Power Electronics"
     year_status: "2025"
     citation: >-
-      Hai Xu, Jingyu Wang, <strong>Zhicong Huang*</strong>, “Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation,” IEEE Transactions on Power Electronics, vol. 40, no. 9, pp. 14134--14145, Sep. 2025. <strong>(IEEE TPEL Second Place Prize Paper Award)</strong>
+      Hai Xu, Jingyu Wang, <strong>Zhicong Huang*</strong>, “Large-spacing segmented transmitter track for dynamic wireless power transfer with low output fluctuation,” IEEE Transactions on Power Electronics, vol. 40, no. 9, pp. 14134--14145, Sep. 2025. <strong style="color: red;">(IEEE TPEL Second Place Prize Paper Award)</strong>
     pdf: "https://doi.org/10.1109/TPEL.2025.3569698"
     code: "./assets/files/2025-Xu-Large-Spacing-TPEL.pdf"
   - title: "A dual-frequency resonant single-ended IPT circuit with enhanced power transfer capability"
