@@ -35,7 +35,7 @@ main:
     conference: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems"
     year_status: "2023"
     citation: >-
-      <strong>Zhicong Huang*</strong>, Canjun Yuan, Hanchen Ge, and Ting Hou, “Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 3, pp. 806-816, Sep. 2023. (Spotlight Paper)
+      <strong>Zhicong Huang*</strong>, Canjun Yuan, Hanchen Ge, and Ting Hou, “Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 3, pp. 806-816, Sep. 2023. <strong style="color: red;">(Spotlight Paper)</strong>
     pdf: "https://doi.org/10.1109/jetcas.2023.3290161"
   - title: "Modeling methodology based on fast and refined neural networks for non-isolated DC-DC converters with configurable parameter settings"
     category: "AI for Power Electronics"
