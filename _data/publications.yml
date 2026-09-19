@@ -52,6 +52,14 @@ main:
       Jingyu Wang, Hai Xu, <strong>Zhicong Huang*</strong>, Chi-Kwan Lee, Io-Wa Iam, and Chi-Seng Lam, “A novel choke-less class-E inverter with multiplexed transmitter coil for inductive power transfer,” IEEE Transactions on Transportation Electrification, in press.
     pdf: "https://doi.org/10.1109/TTE.2026.3731647"
     code: "./assets/files/2026-Wang-Class-E-TTE.pdf"
+  - title: "Dual-band complementary compensation for a 2-coil single-ended IPT converter achieving omnidirectional misalignment tolerance across a wide load range"
+    category: "Wireless Power Transfer"
+    conference: "IEEE Transactions on Industrial Electronics"
+    year_status: "2026"
+    citation: >-
+      Jingyu Wang and <strong>Zhicong Huang*</strong>, “Dual-band complementary compensation for a 2-coil single-ended IPT converter achieving omnidirectional misalignment tolerance across a wide load range,” IEEE Transactions on Industrial Electronics, vol. 73, no. 4, pp. 5386-5396, Apr. 2026.
+    pdf: "https://doi.org/10.1109/TIE.2025.3629361"
+    code: "./assets/files/2026-Wang-Dual-Band-TIE.pdf"
   - title: "A single-switch IPT driver for unipolar-bipolar composite coils achieving misalignment tolerance"
     category: "Wireless Power Transfer"
     conference: "IEEE Transactions on Power Electronics"
