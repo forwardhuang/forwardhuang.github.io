@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Associate Professor at South China University of Technology, Guangzhou, China. I received my Ph.D. in Power Electronics from The Hong Kong Polytechnic University in 2018 and was a Postdoctoral Fellow under the UM Macao Talent Program with the State Key Laboratory of Analog and Mixed-Signal VLSI, University of Macau, in 2019. Over the past 15 years, I have dedicated myself to power electronics and its interdisciplinary applications, and I am listed among the **World's Top 2% Scientists by Stanford University (2024, 2025)**. My current research focuses on:
+I am a Professor at South China University of Technology, Guangzhou, China. I received my Ph.D. in Power Electronics from The Hong Kong Polytechnic University in 2018 and was a Postdoctoral Fellow under the UM Macao Talent Program with the State Key Laboratory of Analog and Mixed-Signal VLSI, University of Macau, in 2019. Over the past 15 years, I have dedicated myself to power electronics and its interdisciplinary applications, and I am listed among the **World's Top 2% Scientists by Stanford University (2024, 2025)**. My current research focuses on:
 
 - Wireless Power Transfer
 - Resonant Power Conversion
