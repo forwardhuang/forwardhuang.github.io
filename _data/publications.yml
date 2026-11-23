@@ -5,6 +5,7 @@ main:
     year_status: "2026"
     citation: >-
       Zhicong Huang, Jun Cheng, and <strong>Guozhen Hu*</strong>, “DACouplerNet: a dual-architecture artificial neural network for IPT magnetic coupler modeling with reduced data-sampling overhead,” IEEE Transactions on Industrial Electronics, in press.
+    pdf: "https://doi.org/10.1109/TIE.2026.3736885"
     code: "./assets/files/2026-Huang-DACouplerNet-TIE.pdf"
   - title: "Hybrid modeling approach combining analytical and neural ordinary differential equations for accelerated simulation of grid-tied inverter"
     category: "AI for Power Electronics"
