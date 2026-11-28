@@ -20,8 +20,8 @@ I am a Senior Member of IEEE and currently serve as an Associate Editor for *IEE
 
 <h2 id="news" class="section-title news-section-title">News</h2>
 
-- 获中国商业联合会服务业科技创新奖一等奖（排名第二）。
-- 获第二十三届中国电气自动化与电控系统学术年会优秀墙报论文奖。
+- **[Nov. 2026]** 获中国商业联合会服务业科技创新奖一等奖（排名第二）。
+- **[Nov. 2026]** 获第二十三届中国电气自动化与电控系统学术年会优秀墙报论文奖。
 - **[Oct. 2026]** Named in the World's Top 2% Scientists list published by Elsevier and Stanford University for three consecutive years (2024–2026).
 - <span style="color: red;"><strong>[Sep. 2026]</strong> Our paper entitled <a href="https://ieeexplore.ieee.org/document/11002618" target="_blank" rel="noopener" style="color: red; text-decoration: underline;">“Large-Spacing Segmented Transmitter Track for Dynamic Wireless Power Transfer With Low Output Fluctuation”</a> received the 2025 <em>IEEE Transactions on Power Electronics</em> (TPEL) Second Place Prize Paper Award.</span>
 - **[Aug. 2026]** Received Best Poster Presentation Award at the International Zhejiang Power Electronics Conference 2026.
